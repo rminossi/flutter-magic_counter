@@ -3,7 +3,48 @@ import 'package:flutter/material.dart';
 void main() {
   runApp(MaterialApp(
     title: "Contador MTG",
-    home: Stack(
+    home: Home()
+  ));
+}
+
+class Home extends StatefulWidget {
+  @override
+  _HomeState createState() => _HomeState();
+}
+
+class _HomeState extends State<Home> {
+
+int _life1 = 20;
+int _life2 = 20;
+String _status1 = "";
+String _status2 = "";
+
+void _changeLife1(int delta){
+  setState(() {
+    _life1 += delta;
+
+    if(_life1 <= 0){
+      _status1 = "End game";
+    }else{
+      _status1 = "";
+    }
+  });
+}
+void _changeLife2(int delta){
+  setState((){
+    _life2 += delta;
+
+    if(_life2 <= 0){
+      _status2 = "End game";
+    }else{
+      _status2 = "";
+    }
+  });
+  
+}
+  @override
+  Widget build(BuildContext context) {
+    return Stack(
       children: <Widget>[
         Image.asset(
           "images/background.jpg",
@@ -16,7 +57,7 @@ void main() {
           mainAxisAlignment: MainAxisAlignment.start,
           children: <Widget>[
           Text(
-            "Jogador: 1: 20", 
+            "Player 1: $_life1", 
             style: TextStyle(fontSize: 40.0, color: Colors.white, fontWeight: FontWeight.bold),
           ),
           Row(
@@ -29,7 +70,9 @@ void main() {
                     "+1",
                     style: TextStyle(fontSize: 30.0, color: Colors.white),
                   ),
-                  onPressed: (){},
+                  onPressed: (){
+                    _changeLife1(1);
+                  },
                 ),
                 ),
                 Padding(
@@ -39,13 +82,15 @@ void main() {
                       "-1",
                       style: TextStyle(fontSize: 30.0, color: Colors.white),
                     ),
-                    onPressed: (){},
+                    onPressed: (){
+                      _changeLife1(-1);
+                    },
                   ),
                 ),
               ],
             ),
             Text(
-            "Vivo", 
+            "$_status1", 
             style: TextStyle(fontSize: 20.0, color: Colors.white, fontWeight: FontWeight.bold)
             )
         ],
@@ -57,7 +102,7 @@ void main() {
           mainAxisAlignment: MainAxisAlignment.end,
           children: <Widget>[
           Text(
-            "Jogador: 2: 20", 
+            "Player 2: $_life2", 
             style: TextStyle(fontSize: 40.0, color: Colors.white, fontWeight: FontWeight.bold),
           ),
           Row(
@@ -70,7 +115,9 @@ void main() {
                     "+1",
                     style: TextStyle(fontSize: 30.0, color: Colors.white),
                   ),
-                  onPressed: (){},
+                  onPressed: (){
+                    _changeLife2(1);
+                  },
                 ),
                 ),
                 Padding(
@@ -80,19 +127,21 @@ void main() {
                       "-1",
                       style: TextStyle(fontSize: 30.0, color: Colors.white),
                     ),
-                    onPressed: (){},
+                    onPressed: (){
+                      _changeLife2(-1);
+                    },
                   ),
                 ),
               ],
             ),
             Text(
-            "Vivo", 
+            "$_status2", 
             style: TextStyle(fontSize: 20.0, color: Colors.white, fontWeight: FontWeight.bold)
             )
         ],
         ),
         ),
       ],
-    )
-  ));
+    );
+  }
 }

@@ -40,11 +40,31 @@ void _changeLife2(int delta){
       _status2 = "";
     }
   });
-  
+}
+
+void _reset(){
+  setState(() {
+    _life1 = 20;
+    _life2 = 20;
+    _status1 = "";
+    _status2 = "";
+  });
 }
   @override
   Widget build(BuildContext context) {
-    return Stack(
+    return Scaffold(
+      appBar: AppBar(
+        title: Text("Magic Counter"),
+        centerTitle: true,
+        backgroundColor: Color(0xFFBF8C3F),
+        actions: <Widget>[
+          IconButton(icon: Icon(Icons.refresh),
+          onPressed: _reset
+          ,)
+        ],
+      ),
+      body: Center(
+      child: Stack( 
       children: <Widget>[
         Image.asset(
           "images/background.jpg",
@@ -142,6 +162,8 @@ void _changeLife2(int delta){
         ),
         ),
       ],
+    )
+    )
     );
   }
 }

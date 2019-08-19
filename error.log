@@ -1,0 +1,1663 @@
+[   +1 ms] > Transform fragment.aar (androidx.fragment:fragment:1.0.0-rc01) with JetifyTransform
+[        ] > Transform firebase-common.aar (com.google.firebase:firebase-common:16.1.0) with ExtractAarTransform
+[   +1 ms] > Transform vectordrawable.aar (androidx.vectordrawable:vectordrawable:1.0.0-rc01) with JetifyTransform
+[   +1 ms] > Transform legacy-support-core-utils.aar (androidx.legacy:legacy-support-core-utils:1.0.0-rc01) with ExtractAarTransform
+[        ] > Transform firebase-common.aar (com.google.firebase:firebase-common:16.1.0) with AarTransform
+[        ] > Transform fragment.aar (androidx.fragment:fragment:1.0.0-rc01) with ExtractAarTransform
+[        ] > Transform legacy-support-core-utils.aar (androidx.legacy:legacy-support-core-utils:1.0.0-rc01) with AarTransform
+[        ] > Transform vectordrawable.aar (androidx.vectordrawable:vectordrawable:1.0.0-rc01) with ExtractAarTransform
+[        ] > Transform vectordrawable.aar (androidx.vectordrawable:vectordrawable:1.0.0-rc01) with AarTransform
+[   +1 ms] > Transform transition.aar (androidx.transition:transition:1.0.0-rc01) with AarTransform
+[   +1 ms] > Transform vectordrawable-animated.aar (androidx.vectordrawable:vectordrawable-animated:1.0.0-rc01) with JetifyTransform
+[        ] > Transform recyclerview.aar (androidx.recyclerview:recyclerview:1.0.0-rc01) with AarTransform
+[        ] > Transform exifinterface.aar (androidx.exifinterface:exifinterface:1.0.0-rc01) with AarTransform
+[        ] > Transform material.aar (com.google.android.material:material:1.0.0-rc01) with AarTransform
+[        ] > Transform fragment.aar (androidx.fragment:fragment:1.0.0-rc01) with AarTransform
+[        ] > Transform ucrop.aar (com.github.yalantis:ucrop:2.2.3) with AarTransform
+[        ] > Transform vectordrawable-animated.aar (androidx.vectordrawable:vectordrawable-animated:1.0.0-rc01) with ExtractAarTransform
+[        ] > Transform appcompat.aar (androidx.appcompat:appcompat:1.0.0-rc01) with JetifyTransform
+[        ] > Task :cloud_firestore:compileDebugAidl NO-SOURCE
+[        ] > Task :firebase_auth:compileDebugAidl NO-SOURCE
+[   +1 ms] > Task :firebase_core:compileDebugAidl NO-SOURCE
+[        ] > Task :firebase_storage:compileDebugAidl NO-SOURCE
+[        ] > Transform exoplayer-core.aar (com.google.android.exoplayer:exoplayer-core:2.9.6) with AarTransform
+[   +1 ms] > Transform exoplayer-smoothstreaming.aar (com.google.android.exoplayer:exoplayer-smoothstreaming:2.9.6) with AarTransform
+[   +5 ms] > Transform exoplayer-dash.aar (com.google.android.exoplayer:exoplayer-dash:2.9.6) with AarTransform
+[   +3 ms] > Transform exoplayer-hls.aar (com.google.android.exoplayer:exoplayer-hls:2.9.6) with AarTransform
+[   +2 ms] > Transform appcompat.aar (androidx.appcompat:appcompat:1.0.0-rc01) with ExtractAarTransform
+[        ] > Transform vectordrawable-animated.aar (androidx.vectordrawable:vectordrawable-animated:1.0.0-rc01) with AarTransform
+[        ] > Transform core.aar (androidx.core:core:1.0.2) with JetifyTransform
+[   +2 ms] > Task :video_player:compileDebugAidl NO-SOURCE
+[        ] > Transform interpolator.aar (androidx.interpolator:interpolator:1.0.0) with AarTransform
+[        ] > Transform core-runtime.aar (androidx.arch.core:core-runtime:2.0.0) with AarTransform
+[        ] > Transform lifecycle-livedata-core.aar (androidx.lifecycle:lifecycle-livedata-core:2.0.0) with AarTransform
+[        ] > Transform lifecycle-livedata.aar (androidx.lifecycle:lifecycle-livedata:2.0.0) with AarTransform
+[   +1 ms] > Transform lifecycle-viewmodel.aar (androidx.lifecycle:lifecycle-viewmodel:2.0.0) with AarTransform
+[        ] > Transform lifecycle-runtime.aar (androidx.lifecycle:lifecycle-runtime:2.0.0) with AarTransform
+[        ] > Transform print.aar (androidx.print:print:1.0.0) with AarTransform
+[        ] > Transform localbroadcastmanager.aar (androidx.localbroadcastmanager:localbroadcastmanager:1.0.0) with AarTransform
+[   +1 ms] > Transform documentfile.aar (androidx.documentfile:documentfile:1.0.0) with AarTransform
+[        ] > Transform cursoradapter.aar (androidx.cursoradapter:cursoradapter:1.0.0) with AarTransform
+[        ] > Transform versionedparcelable.aar (androidx.versionedparcelable:versionedparcelable:1.0.0) with AarTransform
+[   +1 ms] > Transform core.aar (androidx.core:core:1.0.1) with AarTransform
+[        ] > Transform asynclayoutinflater.aar (androidx.asynclayoutinflater:asynclayoutinflater:1.0.0) with AarTransform
+[        ] > Transform swiperefreshlayout.aar (androidx.swiperefreshlayout:swiperefreshlayout:1.0.0) with AarTransform
+[   +1 ms] > Transform customview.aar (androidx.customview:customview:1.0.0) with AarTransform
+[   +1 ms] > Transform slidingpanelayout.aar (androidx.slidingpanelayout:slidingpanelayout:1.0.0) with AarTransform
+[   +4 ms] > Transform drawerlayout.aar (androidx.drawerlayout:drawerlayout:1.0.0) with AarTransform
+[   +2 ms] > Transform coordinatorlayout.aar (androidx.coordinatorlayout:coordinatorlayout:1.0.0) with AarTransform
+[   +3 ms] > Transform viewpager.aar (androidx.viewpager:viewpager:1.0.0) with AarTransform
+[   +1 ms] > Transform loader.aar (androidx.loader:loader:1.0.0) with AarTransform
+[        ] > Transform media.aar (androidx.media:media:1.0.0-rc01) with AarTransform
+[  +19 ms] > Transform vectordrawable.aar (androidx.vectordrawable:vectordrawable:1.0.1) with AarTransform
+[        ] > Transform legacy-support-core-utils.aar (androidx.legacy:legacy-support-core-utils:1.0.0) with AarTransform
+[        ] > Transform legacy-support-core-ui.aar (androidx.legacy:legacy-support-core-ui:1.0.0) with AarTransform
+[   +2 ms] > Transform vectordrawable-animated.aar (androidx.vectordrawable:vectordrawable-animated:1.0.0) with AarTransform
+[  +30 ms] > Transform fragment.aar (androidx.fragment:fragment:1.0.0) with AarTransform
+[   +1 ms] > Transform browser.aar (androidx.browser:browser:1.0.0-rc01) with AarTransform
+[   +1 ms] > Transform cardview.aar (androidx.cardview:cardview:1.0.0-rc01) with AarTransform
+[   +1 ms] > Transform legacy-support-v4.aar (androidx.legacy:legacy-support-v4:1.0.0-rc01) with AarTransform
+[   +4 ms] > Transform protolite-well-known-types.aar (com.google.firebase:protolite-well-known-types:16.0.1) with AarTransform
+[   +2 ms] > Transform firebase-database-collection.aar (com.google.firebase:firebase-database-collection:16.0.1) with AarTransform
+[   +2 ms] > Transform appcompat.aar (androidx.appcompat:appcompat:1.0.1) with AarTransform
+[   +4 ms] > Transform facebook-core.aar (com.facebook.android:facebook-core:4.39.0) with AarTransform
+[   +2 ms] > Transform core.aar (androidx.core:core:1.0.2) with ExtractAarTransform
+[        ] > Transform facebook-common.aar (com.facebook.android:facebook-common:4.39.0) with AarTransform
+[        ] > Transform play-services-basement.aar (com.google.android.gms:play-services-basement:16.2.0) with AarTransform
+[        ] > Transform play-services-ads-identifier.aar (com.google.android.gms:play-services-ads-identifier:16.0.0) with AarTransform
+[        ] > Transform firebase-measurement-connector.aar (com.google.firebase:firebase-measurement-connector:17.0.1) with AarTransform
+[        ] > Transform play-services-stats.aar (com.google.android.gms:play-services-stats:16.0.1) with AarTransform
+[        ] > Transform play-services-measurement-base.aar (com.google.android.gms:play-services-measurement-base:16.5.0) with AarTransform
+[        ] > Transform play-services-measurement-sdk-api.aar (com.google.android.gms:play-services-measurement-sdk-api:16.5.0) with AarTransform
+[        ] > Transform play-services-measurement-impl.aar (com.google.android.gms:play-services-measurement-impl:16.5.0) with AarTransform
+[   +1 ms] > Transform play-services-measurement-sdk.aar (com.google.android.gms:play-services-measurement-sdk:16.5.0) with AarTransform
+[        ] > Transform play-services-measurement.aar (com.google.android.gms:play-services-measurement:16.5.0) with AarTransform
+[        ] > Transform firebase-common.aar (com.google.firebase:firebase-common:17.0.0) with AarTransform
+[        ] > Transform play-services-tasks.aar (com.google.android.gms:play-services-tasks:16.0.1) with AarTransform
+[   +1 ms] > Transform play-services-base.aar (com.google.android.gms:play-services-base:16.0.1) with AarTransform
+[   +1 ms] > Transform firebase-iid-interop.aar (com.google.firebase:firebase-iid-interop:16.0.1) with AarTransform
+[   +1 ms] > Transform firebase-iid.aar (com.google.firebase:firebase-iid:17.1.2) with AarTransform
+[        ] > Transform play-services-measurement-api.aar (com.google.android.gms:play-services-measurement-api:16.5.0) with AarTransform
+[        ] > Transform firebase-analytics.aar (com.google.firebase:firebase-analytics:16.5.0) with AarTransform
+[        ] > Transform firebase-auth-interop.aar (com.google.firebase:firebase-auth-interop:17.0.0) with AarTransform
+[        ] > Transform play-services-flags.aar (com.google.android.gms:play-services-flags:16.0.1) with AarTransform
+[        ] > Transform firebase-storage.aar (com.google.firebase:firebase-storage:17.0.0) with AarTransform
+[        ] > Transform firebase-core.aar (com.google.firebase:firebase-core:16.0.9) with AarTransform
+[        ] > Transform facebook-login.aar (com.facebook.android:facebook-login:4.39.0) with AarTransform
+[        ] > Transform grpc-android.aar (io.grpc:grpc-android:1.16.1) with AarTransform
+[        ] > Transform firebase-firestore.aar (com.google.firebase:firebase-firestore:19.0.0) with AarTransform
+[        ] > Transform firebase-auth.aar (com.google.firebase:firebase-auth:17.0.0) with AarTransform
+[        ] > Transform multidex.aar (androidx.multidex:multidex:2.0.0) with AarTransform
+[        ] > Task :cloud_firestore:packageDebugRenderscript NO-SOURCE
+[        ] > Task :firebase_auth:packageDebugRenderscript NO-SOURCE
+[        ] > Task :firebase_core:packageDebugRenderscript NO-SOURCE
+[        ] > Task :firebase_storage:packageDebugRenderscript NO-SOURCE
+[        ] > Task :flutter_facebook_login:packageDebugRenderscript NO-SOURCE
+[        ] > Task :image_cropper:packageDebugRenderscript NO-SOURCE
+[        ] > Task :image_picker:packageDebugRenderscript NO-SOURCE
+[        ] > Task :video_player:packageDebugRenderscript NO-SOURCE
+[        ] > Task :app:compileDebugRenderscript UP-TO-DATE
+[        ] > Task :app:checkDebugManifest UP-TO-DATE
+[        ] > Task :app:generateDebugBuildConfig UP-TO-DATE
+[        ] > Task :app:prepareLintJar UP-TO-DATE
+[        ] > Transform protolite-well-known-types.aar (com.google.firebase:protolite-well-known-types:16.0.1) with LibrarySymbolTableTransform
+[        ] > Transform firebase-database-collection.aar (com.google.firebase:firebase-database-collection:16.0.1) with LibrarySymbolTableTransform
+[        ] > Transform lifecycle-viewmodel.aar (androidx.lifecycle:lifecycle-viewmodel:2.0.0) with LibrarySymbolTableTransform
+[        ] > Transform print.aar (androidx.print:print:1.0.0) with LibrarySymbolTableTransform
+[        ] > Transform localbroadcastmanager.aar (androidx.localbroadcastmanager:localbroadcastmanager:1.0.0) with LibrarySymbolTableTransform
+[        ] > Transform documentfile.aar (androidx.documentfile:documentfile:1.0.0) with LibrarySymbolTableTransform
+[        ] > Transform core-runtime.aar (androidx.arch.core:core-runtime:2.0.0) with LibrarySymbolTableTransform
+[        ] > Transform lifecycle-livedata-core.aar (androidx.lifecycle:lifecycle-livedata-core:2.0.0) with LibrarySymbolTableTransform
+[        ] > Transform lifecycle-livedata.aar (androidx.lifecycle:lifecycle-livedata:2.0.0) with LibrarySymbolTableTransform
+[        ] > Transform interpolator.aar (androidx.interpolator:interpolator:1.0.0) with LibrarySymbolTableTransform
+[        ] > Transform cardview.aar (androidx.cardview:cardview:1.0.0-rc01) with LibrarySymbolTableTransform
+[        ] > Transform cursoradapter.aar (androidx.cursoradapter:cursoradapter:1.0.0) with LibrarySymbolTableTransform
+[        ] > Transform lifecycle-runtime.aar (androidx.lifecycle:lifecycle-runtime:2.0.0) with LibrarySymbolTableTransform
+[        ] > Transform versionedparcelable.aar (androidx.versionedparcelable:versionedparcelable:1.0.0) with LibrarySymbolTableTransform
+[        ] > Transform exifinterface.aar (androidx.exifinterface:exifinterface:1.0.0-rc01) with LibrarySymbolTableTransform
+[        ] > Transform asynclayoutinflater.aar (androidx.asynclayoutinflater:asynclayoutinflater:1.0.0) with LibrarySymbolTableTransform
+[        ] > Transform swiperefreshlayout.aar (androidx.swiperefreshlayout:swiperefreshlayout:1.0.0) with LibrarySymbolTableTransform
+[   +1 ms] > Transform customview.aar (androidx.customview:customview:1.0.0) with LibrarySymbolTableTransform
+[   +1 ms] > Transform slidingpanelayout.aar (androidx.slidingpanelayout:slidingpanelayout:1.0.0) with LibrarySymbolTableTransform
+[        ] > Transform drawerlayout.aar (androidx.drawerlayout:drawerlayout:1.0.0) with LibrarySymbolTableTransform
+[   +4 ms] > Transform coordinatorlayout.aar (androidx.coordinatorlayout:coordinatorlayout:1.0.0) with LibrarySymbolTableTransform
+[        ] > Transform viewpager.aar (androidx.viewpager:viewpager:1.0.0) with LibrarySymbolTableTransform
+[   +2 ms] > Transform media.aar (androidx.media:media:1.0.0-rc01) with LibrarySymbolTableTransform
+[        ] > Transform core.aar (androidx.core:core:1.0.1) with LibrarySymbolTableTransform
+[        ] > Transform loader.aar (androidx.loader:loader:1.0.0) with LibrarySymbolTableTransform
+[   +4 ms] > Transform vectordrawable.aar (androidx.vectordrawable:vectordrawable:1.0.1) with LibrarySymbolTableTransform
+[        ] > Transform transition.aar (androidx.transition:transition:1.0.0-rc01) with LibrarySymbolTableTransform
+[        ] > Transform core.aar (androidx.core:core:1.0.2) with AarTransform
+[        ] > Transform legacy-support-core-utils.aar (androidx.legacy:legacy-support-core-utils:1.0.0) with LibrarySymbolTableTransform
+[  +10 ms] > Transform facebook-core.aar (com.facebook.android:facebook-core:4.39.0) with LibrarySymbolTableTransform
+[        ] > Task :image_picker:compileDebugAidl NO-SOURCE
+[        ] > Transform browser.aar (androidx.browser:browser:1.0.0-rc01) with LibrarySymbolTableTransform
+[        ] > Transform legacy-support-core-ui.aar (androidx.legacy:legacy-support-core-ui:1.0.0) with LibrarySymbolTableTransform
+[        ] > Transform recyclerview.aar (androidx.recyclerview:recyclerview:1.0.0-rc01) with LibrarySymbolTableTransform
+[        ] > Transform vectordrawable-animated.aar (androidx.vectordrawable:vectordrawable-animated:1.0.0) with LibrarySymbolTableTransform
+[        ] > Transform fragment.aar (androidx.fragment:fragment:1.0.0) with LibrarySymbolTableTransform
+[        ] > Transform legacy-support-v4.aar (androidx.legacy:legacy-support-v4:1.0.0-rc01) with LibrarySymbolTableTransform
+[        ] > Transform play-services-basement.aar (com.google.android.gms:play-services-basement:16.2.0) with LibrarySymbolTableTransform
+[        ] > Transform play-services-ads-identifier.aar (com.google.android.gms:play-services-ads-identifier:16.0.0) with LibrarySymbolTableTransform
+[        ] > Transform firebase-measurement-connector.aar (com.google.firebase:firebase-measurement-connector:17.0.1) with LibrarySymbolTableTransform
+[        ] > Transform play-services-stats.aar (com.google.android.gms:play-services-stats:16.0.1) with LibrarySymbolTableTransform
+[        ] > Transform play-services-measurement-sdk-api.aar (com.google.android.gms:play-services-measurement-sdk-api:16.5.0) with LibrarySymbolTableTransform
+[        ] > Transform play-services-measurement-base.aar (com.google.android.gms:play-services-measurement-base:16.5.0) with LibrarySymbolTableTransform
+[        ] > Transform play-services-measurement-impl.aar (com.google.android.gms:play-services-measurement-impl:16.5.0) with LibrarySymbolTableTransform
+[        ] > Transform play-services-measurement.aar (com.google.android.gms:play-services-measurement:16.5.0) with LibrarySymbolTableTransform
+[        ] > Transform play-services-measurement-sdk.aar (com.google.android.gms:play-services-measurement-sdk:16.5.0) with LibrarySymbolTableTransform
+[        ] > Transform play-services-tasks.aar (com.google.android.gms:play-services-tasks:16.0.1) with LibrarySymbolTableTransform
+[   +8 ms] > Transform play-services-base.aar (com.google.android.gms:play-services-base:16.0.1) with LibrarySymbolTableTransform
+[   +7 ms] > Transform firebase-iid-interop.aar (com.google.firebase:firebase-iid-interop:16.0.1) with LibrarySymbolTableTransform
+[   +1 ms] > Transform play-services-flags.aar (com.google.android.gms:play-services-flags:16.0.1) with LibrarySymbolTableTransform
+[        ] > Transform material.aar (com.google.android.material:material:1.0.0-rc01) with LibrarySymbolTableTransform
+[        ] > Transform appcompat.aar (androidx.appcompat:appcompat:1.0.1) with LibrarySymbolTableTransform
+[        ] > Transform facebook-login.aar (com.facebook.android:facebook-login:4.39.0) with LibrarySymbolTableTransform
+[        ] > Transform facebook-common.aar (com.facebook.android:facebook-common:4.39.0) with LibrarySymbolTableTransform
+[        ] > Transform firebase-common.aar (com.google.firebase:firebase-common:17.0.0) with LibrarySymbolTableTransform
+[   +5 ms] > Transform firebase-iid.aar (com.google.firebase:firebase-iid:17.1.2) with LibrarySymbolTableTransform
+[        ] > Transform firebase-analytics.aar (com.google.firebase:firebase-analytics:16.5.0) with LibrarySymbolTableTransform
+[        ] > Transform play-services-measurement-api.aar (com.google.android.gms:play-services-measurement-api:16.5.0) with LibrarySymbolTableTransform
+[   +9 ms] > Transform firebase-core.aar (com.google.firebase:firebase-core:16.0.9) with LibrarySymbolTableTransform
+[   +6 ms] > Transform firebase-storage.aar (com.google.firebase:firebase-storage:17.0.0) with LibrarySymbolTableTransform
+[   +2 ms] > Transform grpc-android.aar (io.grpc:grpc-android:1.16.1) with LibrarySymbolTableTransform
+[        ] > Transform firebase-firestore.aar (com.google.firebase:firebase-firestore:19.0.0) with LibrarySymbolTableTransform
+[   +3 ms] > Transform firebase-auth.aar (com.google.firebase:firebase-auth:17.0.0) with LibrarySymbolTableTransform
+[   +1 ms] > Transform ucrop.aar (com.github.yalantis:ucrop:2.2.3) with LibrarySymbolTableTransform
+[        ] > Transform firebase-auth-interop.aar (com.google.firebase:firebase-auth-interop:17.0.0) with LibrarySymbolTableTransform
+[        ] > Transform exoplayer-core.aar (com.google.android.exoplayer:exoplayer-core:2.9.6) with LibrarySymbolTableTransform
+[        ] > Transform exoplayer-smoothstreaming.aar (com.google.android.exoplayer:exoplayer-smoothstreaming:2.9.6) with LibrarySymbolTableTransform
+[        ] > Transform exoplayer-dash.aar (com.google.android.exoplayer:exoplayer-dash:2.9.6) with LibrarySymbolTableTransform
+[        ] > Transform multidex.aar (androidx.multidex:multidex:2.0.0) with LibrarySymbolTableTransform
+[   +1 ms] > Transform exoplayer-hls.aar (com.google.android.exoplayer:exoplayer-hls:2.9.6) with LibrarySymbolTableTransform
+[        ] > Task :app:cleanMergeDebugAssets
+[        ] > Transform protolite-well-known-types.aar (com.google.firebase:protolite-well-known-types:16.0.1) with AarTransform
+[        ] > Transform firebase-database-collection.aar (com.google.firebase:firebase-database-collection:16.0.1) with AarTransform
+[        ] > Transform interpolator.aar (androidx.interpolator:interpolator:1.0.0) with AarTransform
+[        ] > Transform lifecycle-viewmodel.aar (androidx.lifecycle:lifecycle-viewmodel:2.0.0) with AarTransform
+[        ] > Transform print.aar (androidx.print:print:1.0.0) with AarTransform
+[        ] > Transform localbroadcastmanager.aar (androidx.localbroadcastmanager:localbroadcastmanager:1.0.0) with AarTransform
+[        ] > Transform documentfile.aar (androidx.documentfile:documentfile:1.0.0) with AarTransform
+[        ] > Transform core-runtime.aar (androidx.arch.core:core-runtime:2.0.0) with AarTransform
+[   +2 ms] > Transform lifecycle-livedata-core.aar (androidx.lifecycle:lifecycle-livedata-core:2.0.0) with AarTransform
+[   +2 ms] > Transform lifecycle-livedata.aar (androidx.lifecycle:lifecycle-livedata:2.0.0) with AarTransform
+[   +1 ms] > Transform cardview.aar (androidx.cardview:cardview:1.0.0-rc01) with AarTransform
+[   +1 ms] > Transform cursoradapter.aar (androidx.cursoradapter:cursoradapter:1.0.0) with AarTransform
+[        ] > Transform lifecycle-runtime.aar (androidx.lifecycle:lifecycle-runtime:2.0.0) with AarTransform
+[   +1 ms] > Transform versionedparcelable.aar (androidx.versionedparcelable:versionedparcelable:1.0.0) with AarTransform
+[        ] > Transform exifinterface.aar (androidx.exifinterface:exifinterface:1.0.0-rc01) with AarTransform
+[        ] > Transform core.aar (androidx.core:core:1.0.1) with AarTransform
+[        ] > Transform asynclayoutinflater.aar (androidx.asynclayoutinflater:asynclayoutinflater:1.0.0) with AarTransform
+[   +1 ms] > Transform swiperefreshlayout.aar (androidx.swiperefreshlayout:swiperefreshlayout:1.0.0) with AarTransform
+[        ] > Transform customview.aar (androidx.customview:customview:1.0.0) with AarTransform
+[        ] > Transform slidingpanelayout.aar (androidx.slidingpanelayout:slidingpanelayout:1.0.0) with AarTransform
+[        ] > Transform drawerlayout.aar (androidx.drawerlayout:drawerlayout:1.0.0) with AarTransform
+[        ] > Transform coordinatorlayout.aar (androidx.coordinatorlayout:coordinatorlayout:1.0.0) with AarTransform
+[        ] > Transform viewpager.aar (androidx.viewpager:viewpager:1.0.0) with AarTransform
+[        ] > Transform media.aar (androidx.media:media:1.0.0-rc01) with AarTransform
+[        ] > Transform loader.aar (androidx.loader:loader:1.0.0) with AarTransform
+[        ] > Transform transition.aar (androidx.transition:transition:1.0.0-rc01) with AarTransform
+[        ] > Transform vectordrawable.aar (androidx.vectordrawable:vectordrawable:1.0.1) with AarTransform
+[   +1 ms] > Transform legacy-support-core-utils.aar (androidx.legacy:legacy-support-core-utils:1.0.0) with AarTransform
+[        ] > Transform facebook-core.aar (com.facebook.android:facebook-core:4.39.0) with AarTransform
+[        ] > Transform legacy-support-core-ui.aar (androidx.legacy:legacy-support-core-ui:1.0.0) with AarTransform
+[   +1 ms] > Transform browser.aar (androidx.browser:browser:1.0.0-rc01) with AarTransform
+[        ] > Transform recyclerview.aar (androidx.recyclerview:recyclerview:1.0.0-rc01) with AarTransform
+[        ] > Transform vectordrawable-animated.aar (androidx.vectordrawable:vectordrawable-animated:1.0.0) with AarTransform
+[        ] > Transform fragment.aar (androidx.fragment:fragment:1.0.0) with AarTransform
+[        ] > Transform legacy-support-v4.aar (androidx.legacy:legacy-support-v4:1.0.0-rc01) with AarTransform
+[        ] > Transform play-services-basement.aar (com.google.android.gms:play-services-basement:16.2.0) with AarTransform
+[        ] > Transform play-services-ads-identifier.aar (com.google.android.gms:play-services-ads-identifier:16.0.0) with AarTransform
+[        ] > Transform firebase-measurement-connector.aar (com.google.firebase:firebase-measurement-connector:17.0.1) with AarTransform
+[        ] > Transform play-services-stats.aar (com.google.android.gms:play-services-stats:16.0.1) with AarTransform
+[        ] > Transform play-services-measurement-base.aar (com.google.android.gms:play-services-measurement-base:16.5.0) with AarTransform
+[   +1 ms] > Transform play-services-measurement-sdk-api.aar (com.google.android.gms:play-services-measurement-sdk-api:16.5.0) with AarTransform
+[   +1 ms] > Transform play-services-measurement-impl.aar (com.google.android.gms:play-services-measurement-impl:16.5.0) with AarTransform
+[   +1 ms] > Transform play-services-measurement-sdk.aar (com.google.android.gms:play-services-measurement-sdk:16.5.0) with AarTransform
+[        ] > Transform play-services-measurement.aar (com.google.android.gms:play-services-measurement:16.5.0) with AarTransform
+[        ] > Transform play-services-tasks.aar (com.google.android.gms:play-services-tasks:16.0.1) with AarTransform
+[        ] > Transform play-services-base.aar (com.google.android.gms:play-services-base:16.0.1) with AarTransform
+[        ] > Transform firebase-iid-interop.aar (com.google.firebase:firebase-iid-interop:16.0.1) with AarTransform
+[        ] > Transform play-services-flags.aar (com.google.android.gms:play-services-flags:16.0.1) with AarTransform
+[        ] > Transform appcompat.aar (androidx.appcompat:appcompat:1.0.1) with AarTransform
+[        ] > Transform material.aar (com.google.android.material:material:1.0.0-rc01) with AarTransform
+[   +1 ms] > Transform facebook-common.aar (com.facebook.android:facebook-common:4.39.0) with AarTransform
+[   +1 ms] > Transform facebook-login.aar (com.facebook.android:facebook-login:4.39.0) with AarTransform
+[        ] > Transform firebase-common.aar (com.google.firebase:firebase-common:17.0.0) with AarTransform
+[        ] > Transform firebase-iid.aar (com.google.firebase:firebase-iid:17.1.2) with AarTransform
+[        ] > Transform play-services-measurement-api.aar (com.google.android.gms:play-services-measurement-api:16.5.0) with AarTransform
+[        ] > Transform firebase-analytics.aar (com.google.firebase:firebase-analytics:16.5.0) with AarTransform
+[        ] > Transform firebase-core.aar (com.google.firebase:firebase-core:16.0.9) with AarTransform
+[        ] > Transform firebase-auth-interop.aar (com.google.firebase:firebase-auth-interop:17.0.0) with AarTransform
+[        ] > Transform firebase-storage.aar (com.google.firebase:firebase-storage:17.0.0) with AarTransform
+[        ] > Transform grpc-android.aar (io.grpc:grpc-android:1.16.1) with AarTransform
+[        ] > Transform firebase-firestore.aar (com.google.firebase:firebase-firestore:19.0.0) with AarTransform
+[        ] > Transform firebase-auth.aar (com.google.firebase:firebase-auth:17.0.0) with AarTransform
+[   +2 ms] > Transform ucrop.aar (com.github.yalantis:ucrop:2.2.3) with AarTransform
+[        ] > Transform exoplayer-core.aar (com.google.android.exoplayer:exoplayer-core:2.9.6) with AarTransform
+[        ] > Transform exoplayer-smoothstreaming.aar (com.google.android.exoplayer:exoplayer-smoothstreaming:2.9.6) with AarTransform
+[        ] > Transform exoplayer-dash.aar (com.google.android.exoplayer:exoplayer-dash:2.9.6) with AarTransform
+[        ] > Transform exoplayer-hls.aar (com.google.android.exoplayer:exoplayer-hls:2.9.6) with AarTransform
+[        ] > Transform multidex.aar (androidx.multidex:multidex:2.0.0) with AarTransform
+[        ] > Task :app:mergeDebugShaders UP-TO-DATE
+[        ] > Task :app:compileDebugShaders UP-TO-DATE
+[        ] > Task :app:generateDebugAssets UP-TO-DATE
+[        ] > Task :cloud_firestore:mergeDebugShaders UP-TO-DATE
+[   +1 ms] > Task :cloud_firestore:compileDebugShaders UP-TO-DATE
+[        ] > Task :cloud_firestore:generateDebugAssets UP-TO-DATE
+[        ] > Task :cloud_firestore:packageDebugAssets UP-TO-DATE
+[   +1 ms] > Task :firebase_auth:mergeDebugShaders UP-TO-DATE
+[        ] > Task :firebase_auth:compileDebugShaders UP-TO-DATE
+[        ] > Task :firebase_auth:generateDebugAssets UP-TO-DATE
+[        ] > Task :firebase_auth:packageDebugAssets UP-TO-DATE
+[        ] > Transform appcompat.aar (androidx.appcompat:appcompat:1.0.0-rc01) with AarTransform
+[        ] > Task :firebase_core:mergeDebugShaders UP-TO-DATE
+[        ] > Task :firebase_core:compileDebugShaders UP-TO-DATE
+[        ] > Task :firebase_core:generateDebugAssets UP-TO-DATE
+[        ] > Transform aapt2-windows.jar (com.android.tools.build:aapt2:3.2.1-4818971) with Aapt2Extractor
+[        ] > Task :firebase_core:packageDebugAssets UP-TO-DATE
+[   +1 ms] > Task :flutter_facebook_login:compileDebugAidl NO-SOURCE
+[        ] > Task :image_cropper:compileDebugAidl NO-SOURCE
+[        ] > Task :app:compileDebugAidl NO-SOURCE
+[        ] > Task :firebase_storage:mergeDebugShaders UP-TO-DATE
+[   +1 ms] > Task :firebase_storage:compileDebugShaders UP-TO-DATE
+[        ] > Task :firebase_storage:generateDebugAssets UP-TO-DATE
+[   +2 ms] > Task :firebase_storage:packageDebugAssets UP-TO-DATE
+[   +2 ms] > Task :flutter_facebook_login:mergeDebugShaders UP-TO-DATE
+[   +3 ms] > Task :flutter_facebook_login:compileDebugShaders UP-TO-DATE
+[   +4 ms] > Task :flutter_facebook_login:generateDebugAssets UP-TO-DATE
+[   +2 ms] > Task :flutter_facebook_login:packageDebugAssets UP-TO-DATE
+[        ] > Task :image_cropper:mergeDebugShaders UP-TO-DATE
+[        ] > Task :image_cropper:compileDebugShaders UP-TO-DATE
+[        ] > Task :image_cropper:generateDebugAssets UP-TO-DATE
+[   +1 ms] > Task :image_cropper:packageDebugAssets UP-TO-DATE
+[        ] > Task :image_picker:mergeDebugShaders UP-TO-DATE
+[   +1 ms] > Task :image_picker:compileDebugShaders UP-TO-DATE
+[        ] > Task :image_picker:generateDebugAssets UP-TO-DATE
+[        ] > Task :image_picker:packageDebugAssets UP-TO-DATE
+[        ] > Task :video_player:mergeDebugShaders UP-TO-DATE
+[        ] > Task :video_player:compileDebugShaders UP-TO-DATE
+[        ] > Task :video_player:generateDebugAssets UP-TO-DATE
+[  +23 ms] > Task :video_player:packageDebugAssets UP-TO-DATE
+[        ] > Task :app:mergeDebugAssets
+[ +499 ms] > Task :app:copyFlutterAssetsDebug
+[        ] > Task :app:mainApkListPersistenceDebug UP-TO-DATE
+[        ] > Transform firebase-database-collection.aar (com.google.firebase:firebase-database-collection:16.0.1) with AarTransform
+[        ] > Transform lifecycle-viewmodel.aar (androidx.lifecycle:lifecycle-viewmodel:2.0.0) with AarTransform
+[        ] > Transform interpolator.aar (androidx.interpolator:interpolator:1.0.0) with AarTransform
+[        ] > Transform print.aar (androidx.print:print:1.0.0) with AarTransform
+[        ] > Transform localbroadcastmanager.aar (androidx.localbroadcastmanager:localbroadcastmanager:1.0.0) with AarTransform
+[        ] > Transform documentfile.aar (androidx.documentfile:documentfile:1.0.0) with AarTransform
+[        ] > Transform core-runtime.aar (androidx.arch.core:core-runtime:2.0.0) with AarTransform
+[        ] > Transform lifecycle-livedata-core.aar (androidx.lifecycle:lifecycle-livedata-core:2.0.0) with AarTransform
+[        ] > Transform lifecycle-livedata.aar (androidx.lifecycle:lifecycle-livedata:2.0.0) with AarTransform
+[        ] > Transform cursoradapter.aar (androidx.cursoradapter:cursoradapter:1.0.0) with AarTransform
+[        ] > Transform lifecycle-runtime.aar (androidx.lifecycle:lifecycle-runtime:2.0.0) with AarTransform
+[        ] > Transform versionedparcelable.aar (androidx.versionedparcelable:versionedparcelable:1.0.0) with AarTransform
+[        ] > Transform exifinterface.aar (androidx.exifinterface:exifinterface:1.0.0-rc01) with AarTransform
+[        ] > Transform asynclayoutinflater.aar (androidx.asynclayoutinflater:asynclayoutinflater:1.0.0) with AarTransform
+[        ] > Transform swiperefreshlayout.aar (androidx.swiperefreshlayout:swiperefreshlayout:1.0.0) with AarTransform
+[        ] > Transform customview.aar (androidx.customview:customview:1.0.0) with AarTransform
+[        ] > Transform protolite-well-known-types.aar (com.google.firebase:protolite-well-known-types:16.0.1) with AarTransform
+[        ] > Transform slidingpanelayout.aar (androidx.slidingpanelayout:slidingpanelayout:1.0.0) with AarTransform
+[        ] > Transform core.aar (androidx.core:core:1.0.1) with AarTransform
+[        ] > Transform drawerlayout.aar (androidx.drawerlayout:drawerlayout:1.0.0) with AarTransform
+[        ] > Transform viewpager.aar (androidx.viewpager:viewpager:1.0.0) with AarTransform
+[        ] > Transform loader.aar (androidx.loader:loader:1.0.0) with AarTransform
+[        ] > Transform media.aar (androidx.media:media:1.0.0-rc01) with AarTransform
+[        ] > Transform cardview.aar (androidx.cardview:cardview:1.0.0-rc01) with AarTransform
+[        ] > Transform vectordrawable.aar (androidx.vectordrawable:vectordrawable:1.0.1) with AarTransform
+[        ] > Transform legacy-support-core-utils.aar (androidx.legacy:legacy-support-core-utils:1.0.0) with AarTransform
+[        ] > Transform facebook-core.aar (com.facebook.android:facebook-core:4.39.0) with AarTransform
+[        ] > Transform legacy-support-core-ui.aar (androidx.legacy:legacy-support-core-ui:1.0.0) with AarTransform
+[        ] > Transform transition.aar (androidx.transition:transition:1.0.0-rc01) with AarTransform
+[        ] > Transform vectordrawable-animated.aar (androidx.vectordrawable:vectordrawable-animated:1.0.0) with AarTransform
+[        ] > Transform fragment.aar (androidx.fragment:fragment:1.0.0) with AarTransform
+[        ] > Transform legacy-support-v4.aar (androidx.legacy:legacy-support-v4:1.0.0-rc01) with AarTransform
+[        ] > Transform coordinatorlayout.aar (androidx.coordinatorlayout:coordinatorlayout:1.0.0) with AarTransform
+[        ] > Transform play-services-ads-identifier.aar (com.google.android.gms:play-services-ads-identifier:16.0.0) with AarTransform
+[        ] > Transform firebase-measurement-connector.aar (com.google.firebase:firebase-measurement-connector:17.0.1) with AarTransform
+[        ] > Transform play-services-basement.aar (com.google.android.gms:play-services-basement:16.2.0) with AarTransform
+[        ] > Transform play-services-stats.aar (com.google.android.gms:play-services-stats:16.0.1) with AarTransform
+[        ] > Transform browser.aar (androidx.browser:browser:1.0.0-rc01) with AarTransform
+[        ] > Transform play-services-measurement-base.aar (com.google.android.gms:play-services-measurement-base:16.5.0) with AarTransform
+[        ] > Transform play-services-measurement-sdk-api.aar (com.google.android.gms:play-services-measurement-sdk-api:16.5.0) with AarTransform
+[        ] > Transform play-services-measurement-impl.aar (com.google.android.gms:play-services-measurement-impl:16.5.0) with AarTransform
+[        ] > Transform play-services-measurement-sdk.aar (com.google.android.gms:play-services-measurement-sdk:16.5.0) with AarTransform
+[        ] > Transform play-services-measurement.aar (com.google.android.gms:play-services-measurement:16.5.0) with AarTransform
+[        ] > Transform play-services-tasks.aar (com.google.android.gms:play-services-tasks:16.0.1) with AarTransform
+[        ] > Transform firebase-iid-interop.aar (com.google.firebase:firebase-iid-interop:16.0.1) with AarTransform
+[        ] > Transform play-services-flags.aar (com.google.android.gms:play-services-flags:16.0.1) with AarTransform
+[        ] > Transform play-services-base.aar (com.google.android.gms:play-services-base:16.0.1) with AarTransform
+[        ] > Transform appcompat.aar (androidx.appcompat:appcompat:1.0.1) with AarTransform
+[        ] > Transform material.aar (com.google.android.material:material:1.0.0-rc01) with AarTransform
+[        ] > Transform firebase-common.aar (com.google.firebase:firebase-common:17.0.0) with AarTransform
+[        ] > Transform firebase-iid.aar (com.google.firebase:firebase-iid:17.1.2) with AarTransform
+[        ] > Transform play-services-measurement-api.aar (com.google.android.gms:play-services-measurement-api:16.5.0) with AarTransform
+[        ] > Transform facebook-common.aar (com.facebook.android:facebook-common:4.39.0) with AarTransform
+[        ] > Transform firebase-analytics.aar (com.google.firebase:firebase-analytics:16.5.0) with AarTransform
+[        ] > Transform firebase-core.aar (com.google.firebase:firebase-core:16.0.9) with AarTransform
+[        ] > Transform firebase-storage.aar (com.google.firebase:firebase-storage:17.0.0) with AarTransform
+[        ] > Transform firebase-auth-interop.aar (com.google.firebase:firebase-auth-interop:17.0.0) with AarTransform
+[        ] > Transform grpc-android.aar (io.grpc:grpc-android:1.16.1) with AarTransform
+[        ] > Transform facebook-login.aar (com.facebook.android:facebook-login:4.39.0) with AarTransform
+[        ] > Transform firebase-firestore.aar (com.google.firebase:firebase-firestore:19.0.0) with AarTransform
+[        ] > Transform firebase-auth.aar (com.google.firebase:firebase-auth:17.0.0) with AarTransform
+[        ] > Transform exoplayer-core.aar (com.google.android.exoplayer:exoplayer-core:2.9.6) with AarTransform
+[        ] > Transform recyclerview.aar (androidx.recyclerview:recyclerview:1.0.0-rc01) with AarTransform
+[        ] > Transform exoplayer-smoothstreaming.aar (com.google.android.exoplayer:exoplayer-smoothstreaming:2.9.6) with AarTransform
+[        ] > Transform exoplayer-dash.aar (com.google.android.exoplayer:exoplayer-dash:2.9.6) with AarTransform
+[        ] > Transform multidex.aar (androidx.multidex:multidex:2.0.0) with AarTransform
+[        ] > Transform exoplayer-hls.aar (com.google.android.exoplayer:exoplayer-hls:2.9.6) with AarTransform
+[        ] > Transform ucrop.aar (com.github.yalantis:ucrop:2.2.3) with AarTransform
+[        ] > Task :app:generateDebugResValues UP-TO-DATE
+[        ] > Task :app:generateDebugResources UP-TO-DATE
+[        ] > Task :app:processDebugGoogleServices
+[        ] Parsing json file: C:\Users\Minossi\Desenvolvimento\Mobile\biking\android\app\google-services.json
+[        ] > Transform core-runtime.aar (androidx.arch.core:core-runtime:2.0.0-rc01) with AarTransform
+[        ] > Transform lifecycle-livedata-core.aar (androidx.lifecycle:lifecycle-livedata-core:2.0.0-rc01) with AarTransform
+[        ] > Transform lifecycle-viewmodel.aar (androidx.lifecycle:lifecycle-viewmodel:2.0.0-rc01) with AarTransform
+[        ] > Transform lifecycle-runtime.aar (androidx.lifecycle:lifecycle-runtime:2.0.0-rc01) with AarTransform
+[        ] > Transform interpolator.aar (androidx.interpolator:interpolator:1.0.0-rc01) with AarTransform
+[        ] > Transform print.aar (androidx.print:print:1.0.0-rc01) with AarTransform
+[        ] > Transform cursoradapter.aar (androidx.cursoradapter:cursoradapter:1.0.0-rc01) with AarTransform
+[        ] > Transform localbroadcastmanager.aar (androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-rc01) with AarTransform
+[   +6 ms] > Transform documentfile.aar (androidx.documentfile:documentfile:1.0.0-rc01) with AarTransform
+[        ] > Transform versionedparcelable.aar (androidx.versionedparcelable:versionedparcelable:1.0.0-rc01) with AarTransform
+[   +1 ms] > Transform core.aar (androidx.core:core:1.0.0-rc01) with AarTransform
+[        ] > Transform asynclayoutinflater.aar (androidx.asynclayoutinflater:asynclayoutinflater:1.0.0-rc01) with AarTransform
+[        ] > Transform swiperefreshlayout.aar (androidx.swiperefreshlayout:swiperefreshlayout:1.0.0-rc01) with AarTransform
+[  +11 ms] > Transform customview.aar (androidx.customview:customview:1.0.0-rc01) with AarTransform
+[        ] > Transform slidingpanelayout.aar (androidx.slidingpanelayout:slidingpanelayout:1.0.0-rc01) with AarTransform
+[  +14 ms] > Transform drawerlayout.aar (androidx.drawerlayout:drawerlayout:1.0.0-rc01) with AarTransform
+[   +3 ms] > Transform viewpager.aar (androidx.viewpager:viewpager:1.0.0-rc01) with AarTransform
+[   +1 ms] > Transform coordinatorlayout.aar (androidx.coordinatorlayout:coordinatorlayout:1.0.0-rc01) with AarTransform
+[        ] > Transform loader.aar (androidx.loader:loader:1.0.0-rc01) with AarTransform
+[        ] > Transform legacy-support-core-utils.aar (androidx.legacy:legacy-support-core-utils:1.0.0-rc01) with AarTransform
+[        ] > Transform legacy-support-core-ui.aar (androidx.legacy:legacy-support-core-ui:1.0.0-rc01) with AarTransform
+[        ] > Transform fragment.aar (androidx.fragment:fragment:1.0.0-rc01) with AarTransform
+[        ] > Transform play-services-basement.aar (com.google.android.gms:play-services-basement:16.1.0) with AarTransform
+[        ] > Task :cloud_firestore:generateDebugResValues UP-TO-DATE
+[        ] > Task :cloud_firestore:compileDebugRenderscript UP-TO-DATE
+[        ] > Task :cloud_firestore:generateDebugResources UP-TO-DATE
+[        ] > Task :cloud_firestore:packageDebugResources UP-TO-DATE
+[        ] > Task :firebase_auth:compileDebugRenderscript UP-TO-DATE
+[        ] > Task :firebase_auth:generateDebugResValues UP-TO-DATE
+[        ] > Task :firebase_auth:generateDebugResources UP-TO-DATE
+[        ] > Task :firebase_auth:packageDebugResources UP-TO-DATE
+[        ] > Transform firebase-common.aar (com.google.firebase:firebase-common:16.1.0) with AarTransform
+[        ] > Task :firebase_core:generateDebugResValues UP-TO-DATE
+[        ] > Task :firebase_core:compileDebugRenderscript UP-TO-DATE
+[        ] > Task :firebase_core:generateDebugResources UP-TO-DATE
+[        ] > Task :firebase_core:packageDebugResources UP-TO-DATE
+[        ] > Task :firebase_storage:compileDebugRenderscript UP-TO-DATE
+[   +7 ms] > Task :firebase_storage:generateDebugResValues UP-TO-DATE
+[        ] > Task :firebase_storage:generateDebugResources UP-TO-DATE
+[   +1 ms] > Task :firebase_storage:packageDebugResources UP-TO-DATE
+[   +3 ms] > Transform vectordrawable-animated.aar (androidx.vectordrawable:vectordrawable-animated:1.0.0-rc01) with AarTransform
+[   +1 ms] > Transform vectordrawable.aar (androidx.vectordrawable:vectordrawable:1.0.0-rc01) with AarTransform
+[   +2 ms] > Transform appcompat.aar (androidx.appcompat:appcompat:1.0.0-rc01) with AarTransform
+[        ] > Task :flutter_facebook_login:generateDebugResValues UP-TO-DATE
+[        ] > Task :flutter_facebook_login:compileDebugRenderscript UP-TO-DATE
+[        ] > Task :flutter_facebook_login:generateDebugResources UP-TO-DATE
+[        ] > Task :flutter_facebook_login:packageDebugResources UP-TO-DATE
+[        ] > Transform transition.aar (androidx.transition:transition:1.0.0-rc01) with AarTransform
+[   +1 ms] > Transform recyclerview.aar (androidx.recyclerview:recyclerview:1.0.0-rc01) with AarTransform
+[        ] > Transform exifinterface.aar (androidx.exifinterface:exifinterface:1.0.0-rc01) with AarTransform
+[        ] > Transform material.aar (com.google.android.material:material:1.0.0-rc01) with AarTransform
+[        ] > Transform ucrop.aar (com.github.yalantis:ucrop:2.2.3) with AarTransform
+[        ] > Task :image_cropper:generateDebugResValues UP-TO-DATE
+[        ] > Task :image_cropper:compileDebugRenderscript UP-TO-DATE
+[        ] > Task :image_cropper:generateDebugResources UP-TO-DATE
+[        ] > Task :image_cropper:packageDebugResources UP-TO-DATE
+[        ] > Transform core.aar (androidx.core:core:1.0.2) with AarTransform
+[        ] > Task :image_picker:compileDebugRenderscript UP-TO-DATE
+[        ] > Task :image_picker:generateDebugResValues UP-TO-DATE
+[        ] > Task :image_picker:generateDebugResources UP-TO-DATE
+[        ] > Task :image_picker:packageDebugResources UP-TO-DATE
+[        ] > Transform exoplayer-core.aar (com.google.android.exoplayer:exoplayer-core:2.9.6) with AarTransform
+[        ] > Transform exoplayer-dash.aar (com.google.android.exoplayer:exoplayer-dash:2.9.6) with AarTransform
+[        ] > Transform exoplayer-smoothstreaming.aar (com.google.android.exoplayer:exoplayer-smoothstreaming:2.9.6) with AarTransform
+[        ] > Transform exoplayer-hls.aar (com.google.android.exoplayer:exoplayer-hls:2.9.6) with AarTransform
+[        ] > Task :video_player:generateDebugResValues UP-TO-DATE
+[        ] > Task :video_player:compileDebugRenderscript UP-TO-DATE
+[        ] > Task :video_player:generateDebugResources UP-TO-DATE
+[        ] > Task :video_player:packageDebugResources UP-TO-DATE
+[  +85 ms] > Task :app:mergeDebugResources UP-TO-DATE
+[   +1 ms] > Task :app:createDebugCompatibleScreenManifests UP-TO-DATE
+[   +2 ms] > Task :app:processDebugManifest UP-TO-DATE
+[   +1 ms] > Task :app:splitsDiscoveryTaskDebug UP-TO-DATE
+[        ] > Transform lifecycle-livedata-core.aar (androidx.lifecycle:lifecycle-livedata-core:2.0.0-rc01) with LibrarySymbolTableTransform
+[   +1 ms] > Transform lifecycle-runtime.aar (androidx.lifecycle:lifecycle-runtime:2.0.0-rc01) with LibrarySymbolTableTransform
+[   +1 ms] > Transform lifecycle-viewmodel.aar (androidx.lifecycle:lifecycle-viewmodel:2.0.0-rc01) with LibrarySymbolTableTransform
+[   +2 ms] > Transform interpolator.aar (androidx.interpolator:interpolator:1.0.0-rc01) with LibrarySymbolTableTransform
+[   +1 ms] > Transform cursoradapter.aar (androidx.cursoradapter:cursoradapter:1.0.0-rc01) with LibrarySymbolTableTransform
+[        ] > Transform print.aar (androidx.print:print:1.0.0-rc01) with LibrarySymbolTableTransform
+[        ] > Transform core-runtime.aar (androidx.arch.core:core-runtime:2.0.0-rc01) with LibrarySymbolTableTransform
+[        ] > Transform localbroadcastmanager.aar (androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-rc01) with LibrarySymbolTableTransform
+[        ] > Transform core.aar (androidx.core:core:1.0.0-rc01) with LibrarySymbolTableTransform
+[        ] > Transform versionedparcelable.aar (androidx.versionedparcelable:versionedparcelable:1.0.0-rc01) with LibrarySymbolTableTransform
+[        ] > Transform documentfile.aar (androidx.documentfile:documentfile:1.0.0-rc01) with LibrarySymbolTableTransform
+[        ] > Transform asynclayoutinflater.aar (androidx.asynclayoutinflater:asynclayoutinflater:1.0.0-rc01) with LibrarySymbolTableTransform
+[        ] > Transform swiperefreshlayout.aar (androidx.swiperefreshlayout:swiperefreshlayout:1.0.0-rc01) with LibrarySymbolTableTransform
+[        ] > Transform customview.aar (androidx.customview:customview:1.0.0-rc01) with LibrarySymbolTableTransform
+[   +2 ms] > Transform drawerlayout.aar (androidx.drawerlayout:drawerlayout:1.0.0-rc01) with LibrarySymbolTableTransform
+[        ] > Transform coordinatorlayout.aar (androidx.coordinatorlayout:coordinatorlayout:1.0.0-rc01) with LibrarySymbolTableTransform
+[        ] > Transform slidingpanelayout.aar (androidx.slidingpanelayout:slidingpanelayout:1.0.0-rc01) with LibrarySymbolTableTransform
+[        ] > Transform viewpager.aar (androidx.viewpager:viewpager:1.0.0-rc01) with LibrarySymbolTableTransform
+[        ] > Transform loader.aar (androidx.loader:loader:1.0.0-rc01) with LibrarySymbolTableTransform
+[        ] > Transform fragment.aar (androidx.fragment:fragment:1.0.0-rc01) with LibrarySymbolTableTransform
+[        ] > Transform legacy-support-core-ui.aar (androidx.legacy:legacy-support-core-ui:1.0.0-rc01) with LibrarySymbolTableTransform
+[        ] > Transform legacy-support-core-utils.aar (androidx.legacy:legacy-support-core-utils:1.0.0-rc01) with LibrarySymbolTableTransform
+[        ] > Transform firebase-common.aar (com.google.firebase:firebase-common:16.1.0) with LibrarySymbolTableTransform
+[        ] > Transform play-services-basement.aar (com.google.android.gms:play-services-basement:16.1.0) with LibrarySymbolTableTransform
+[        ] > Transform vectordrawable.aar (androidx.vectordrawable:vectordrawable:1.0.0-rc01) with LibrarySymbolTableTransform
+[        ] > Transform vectordrawable-animated.aar (androidx.vectordrawable:vectordrawable-animated:1.0.0-rc01) with LibrarySymbolTableTransform
+[        ] > Task :cloud_firestore:generateDebugRFile UP-TO-DATE
+[  +73 ms] > Task :firebase_auth:generateDebugRFile UP-TO-DATE
+[        ] > Task :firebase_core:generateDebugRFile UP-TO-DATE
+[   +1 ms] > Task :firebase_storage:generateDebugRFile UP-TO-DATE
+[        ] > Transform appcompat.aar (androidx.appcompat:appcompat:1.0.0-rc01) with LibrarySymbolTableTransform
+[        ] > Transform core.aar (androidx.core:core:1.0.2) with LibrarySymbolTableTransform
+[        ] > Task :video_player:generateDebugRFile UP-TO-DATE
+[        ] > Task :flutter_facebook_login:generateDebugRFile UP-TO-DATE
+[        ] > Task :image_cropper:generateDebugRFile UP-TO-DATE
+[  +93 ms] > Task :image_picker:generateDebugRFile UP-TO-DATE
+[        ] > Task :app:processDebugResources UP-TO-DATE
+[        ] > Task :app:generateDebugSources UP-TO-DATE
+[        ] > Transform core-runtime.aar (androidx.arch.core:core-runtime:2.0.0-rc01) with AarTransform
+[        ] > Transform lifecycle-livedata-core.aar (androidx.lifecycle:lifecycle-livedata-core:2.0.0-rc01) with AarTransform
+[        ] > Transform core-common.jar (androidx.arch.core:core-common:2.0.0-rc01) with JetifyTransform
+[        ] > Transform core-common.jar (androidx.arch.core:core-common:2.0.0-rc01) with IdentityTransform
+[        ] > Transform lifecycle-viewmodel.aar (androidx.lifecycle:lifecycle-viewmodel:2.0.0-rc01) with AarTransform
+[        ] > Transform lifecycle-runtime.aar (androidx.lifecycle:lifecycle-runtime:2.0.0-rc01) with AarTransform
+[        ] > Transform cursoradapter.aar (androidx.cursoradapter:cursoradapter:1.0.0-rc01) with AarTransform
+[        ] > Transform print.aar (androidx.print:print:1.0.0-rc01) with AarTransform
+[        ] > Transform lifecycle-common.jar (androidx.lifecycle:lifecycle-common:2.0.0-rc01) with JetifyTransform
+[        ] > Transform interpolator.aar (androidx.interpolator:interpolator:1.0.0-rc01) with AarTransform
+[        ] > Transform lifecycle-common.jar (androidx.lifecycle:lifecycle-common:2.0.0-rc01) with IdentityTransform
+[        ] > Transform localbroadcastmanager.aar (androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-rc01) with AarTransform
+[        ] > Transform documentfile.aar (androidx.documentfile:documentfile:1.0.0-rc01) with AarTransform
+[        ] > Transform core.aar (androidx.core:core:1.0.0-rc01) with AarTransform
+[        ] > Transform versionedparcelable.aar (androidx.versionedparcelable:versionedparcelable:1.0.0-rc01) with AarTransform
+[        ] > Transform asynclayoutinflater.aar (androidx.asynclayoutinflater:asynclayoutinflater:1.0.0-rc01) with AarTransform
+[        ] > Transform swiperefreshlayout.aar (androidx.swiperefreshlayout:swiperefreshlayout:1.0.0-rc01) with AarTransform
+[   +1 ms] > Transform collection.jar (androidx.collection:collection:1.0.0-rc01) with JetifyTransform
+[        ] > Transform collection.jar (androidx.collection:collection:1.0.0-rc01) with IdentityTransform
+[        ] > Transform customview.aar (androidx.customview:customview:1.0.0-rc01) with AarTransform
+[        ] > Transform slidingpanelayout.aar (androidx.slidingpanelayout:slidingpanelayout:1.0.0-rc01) with AarTransform
+[        ] > Transform drawerlayout.aar (androidx.drawerlayout:drawerlayout:1.0.0-rc01) with AarTransform
+[   +1 ms] > Transform coordinatorlayout.aar (androidx.coordinatorlayout:coordinatorlayout:1.0.0-rc01) with AarTransform
+[        ] > Transform viewpager.aar (androidx.viewpager:viewpager:1.0.0-rc01) with AarTransform
+[        ] > Transform legacy-support-core-ui.aar (androidx.legacy:legacy-support-core-ui:1.0.0-rc01) with AarTransform
+[        ] > Transform loader.aar (androidx.loader:loader:1.0.0-rc01) with AarTransform
+[        ] > Transform legacy-support-core-utils.aar (androidx.legacy:legacy-support-core-utils:1.0.0-rc01) with AarTransform
+[   +2 ms] > Transform play-services-basement.aar (com.google.android.gms:play-services-basement:16.1.0) with AarTransform
+[        ] > Transform fragment.aar (androidx.fragment:fragment:1.0.0-rc01) with AarTransform
+[   +2 ms] > Transform gson.jar (com.google.code.gson:gson:2.7) with JetifyTransform
+[        ] > Task :cloud_firestore:generateDebugBuildConfig UP-TO-DATE
+[        ] > Transform gson.jar (com.google.code.gson:gson:2.7) with IdentityTransform
+[   +1 ms] > Task :cloud_firestore:prepareLintJar UP-TO-DATE
+[        ] > Task :cloud_firestore:generateDebugSources UP-TO-DATE
+[        ] > Task :cloud_firestore:javaPreCompileDebug UP-TO-DATE
+[        ] > Task :cloud_firestore:compileDebugJavaWithJavac UP-TO-DATE
+[        ] > Task :cloud_firestore:processDebugJavaRes NO-SOURCE
+[        ] > Task :cloud_firestore:transformClassesAndResourcesWithPrepareIntermediateJarsForDebug UP-TO-DATE
+[        ] > Task :firebase_auth:generateDebugBuildConfig UP-TO-DATE
+[        ] > Transform annotation.jar (androidx.annotation:annotation:1.0.0-rc01) with JetifyTransform
+[        ] > Task :firebase_auth:prepareLintJar UP-TO-DATE
+[        ] > Transform annotation.jar (androidx.annotation:annotation:1.0.0-rc01) with IdentityTransform
+[        ] > Task :firebase_auth:generateDebugSources UP-TO-DATE
+[        ] > Task :firebase_auth:javaPreCompileDebug UP-TO-DATE
+[  +68 ms] > Task :firebase_auth:compileDebugJavaWithJavac UP-TO-DATE
+[   +4 ms] > Task :firebase_auth:processDebugJavaRes NO-SOURCE
+[        ] > Task :firebase_auth:transformClassesAndResourcesWithPrepareIntermediateJarsForDebug UP-TO-DATE
+[        ] > Transform firebase-common.aar (com.google.firebase:firebase-common:16.1.0) with AarTransform
+[   +1 ms] > Transform auto-value-annotations.jar (com.google.auto.value:auto-value-annotations:1.6) with JetifyTransform
+[   +1 ms] > Task :firebase_core:generateDebugBuildConfig UP-TO-DATE
+[   +2 ms] > Transform auto-value-annotations.jar (com.google.auto.value:auto-value-annotations:1.6) with IdentityTransform
+[   +1 ms] > Task :firebase_core:prepareLintJar UP-TO-DATE
+[        ] > Task :firebase_core:generateDebugSources UP-TO-DATE
+[        ] > Task :firebase_core:javaPreCompileDebug UP-TO-DATE
+[        ] > Task :firebase_core:compileDebugJavaWithJavac UP-TO-DATE
+[        ] > Task :firebase_core:processDebugJavaRes NO-SOURCE
+[        ] > Task :firebase_core:transformClassesAndResourcesWithPrepareIntermediateJarsForDebug UP-TO-DATE
+[        ] > Task :firebase_storage:generateDebugBuildConfig UP-TO-DATE
+[        ] > Task :firebase_storage:prepareLintJar UP-TO-DATE
+[   +1 ms] > Task :firebase_storage:generateDebugSources UP-TO-DATE
+[        ] > Task :firebase_storage:javaPreCompileDebug UP-TO-DATE
+[        ] > Task :firebase_storage:compileDebugJavaWithJavac UP-TO-DATE
+[   +1 ms] > Task :firebase_storage:processDebugJavaRes NO-SOURCE
+[        ] > Task :firebase_storage:transformClassesAndResourcesWithPrepareIntermediateJarsForDebug UP-TO-DATE
+[        ] > Transform appcompat.aar (androidx.appcompat:appcompat:1.0.0-rc01) with AarTransform
+[        ] > Transform vectordrawable.aar (androidx.vectordrawable:vectordrawable:1.0.0-rc01) with AarTransform
+[        ] > Transform vectordrawable-animated.aar (androidx.vectordrawable:vectordrawable-animated:1.0.0-rc01) with AarTransform
+[        ] > Task :flutter_facebook_login:generateDebugBuildConfig UP-TO-DATE
+[        ] > Task :flutter_facebook_login:prepareLintJar UP-TO-DATE
+[        ] > Task :flutter_facebook_login:generateDebugSources UP-TO-DATE
+[        ] > Task :flutter_facebook_login:javaPreCompileDebug UP-TO-DATE
+[  +74 ms] > Task :flutter_facebook_login:compileDebugJavaWithJavac UP-TO-DATE
+[        ] > Task :flutter_facebook_login:processDebugJavaRes NO-SOURCE
+[        ] > Task :flutter_facebook_login:transformClassesAndResourcesWithPrepareIntermediateJarsForDebug UP-TO-DATE
+[   +1 ms] > Task :image_cropper:generateDebugBuildConfig UP-TO-DATE
+[        ] > Task :image_cropper:prepareLintJar UP-TO-DATE
+[        ] > Task :image_cropper:generateDebugSources UP-TO-DATE
+[        ] > Task :image_cropper:javaPreCompileDebug UP-TO-DATE
+[        ] > Task :image_cropper:compileDebugJavaWithJavac UP-TO-DATE
+[        ] > Task :image_cropper:processDebugJavaRes NO-SOURCE
+[        ] > Task :image_cropper:transformClassesAndResourcesWithPrepareIntermediateJarsForDebug UP-TO-DATE
+[   +1 ms] > Transform core.aar (androidx.core:core:1.0.2) with AarTransform
+[   +1 ms] > Transform annotation.jar (androidx.annotation:annotation:1.0.2) with JetifyTransform
+[   +1 ms] > Task :image_picker:generateDebugBuildConfig UP-TO-DATE
+[        ] > Transform annotation.jar (androidx.annotation:annotation:1.0.2) with IdentityTransform
+[        ] > Task :image_picker:prepareLintJar UP-TO-DATE
+[        ] > Task :image_picker:generateDebugSources UP-TO-DATE
+[        ] > Task :image_picker:javaPreCompileDebug UP-TO-DATE
+[        ] > Task :image_picker:compileDebugJavaWithJavac UP-TO-DATE
+[        ] > Task :image_picker:processDebugJavaRes NO-SOURCE
+[        ] > Task :image_picker:transformClassesAndResourcesWithPrepareIntermediateJarsForDebug UP-TO-DATE
+[        ] > Task :video_player:generateDebugBuildConfig UP-TO-DATE
+[        ] > Task :video_player:prepareLintJar UP-TO-DATE
+[        ] > Task :video_player:generateDebugSources UP-TO-DATE
+[        ] > Task :video_player:javaPreCompileDebug UP-TO-DATE
+[        ] > Task :video_player:compileDebugJavaWithJavac UP-TO-DATE
+[   +1 ms] > Task :video_player:processDebugJavaRes NO-SOURCE
+[        ] > Task :video_player:transformClassesAndResourcesWithPrepareIntermediateJarsForDebug UP-TO-DATE
+[        ] > Task :app:javaPreCompileDebug UP-TO-DATE
+[  +79 ms] > Task :app:compileDebugJavaWithJavac UP-TO-DATE
+[        ] > Task :app:compileDebugNdk NO-SOURCE
+[        ] > Task :app:compileDebugSources UP-TO-DATE
+[  +98 ms] > Task :app:transformClassesWithDexBuilderForDebug UP-TO-DATE
+[  +99 ms] > Task :app:transformClassesWithMultidexlistForDebug UP-TO-DATE
+[        ] > Task :app:transformDexArchiveWithDexMergerForDebug UP-TO-DATE
+[        ] > Transform protolite-well-known-types.aar (com.google.firebase:protolite-well-known-types:16.0.1) with AarTransform
+[   +1 ms] > Transform firebase-database-collection.aar (com.google.firebase:firebase-database-collection:16.0.1) with AarTransform
+[        ] > Transform interpolator.aar (androidx.interpolator:interpolator:1.0.0) with AarTransform
+[        ] > Transform lifecycle-viewmodel.aar (androidx.lifecycle:lifecycle-viewmodel:2.0.0) with AarTransform
+[        ] > Transform localbroadcastmanager.aar (androidx.localbroadcastmanager:localbroadcastmanager:1.0.0) with AarTransform
+[        ] > Transform print.aar (androidx.print:print:1.0.0) with AarTransform
+[        ] > Transform documentfile.aar (androidx.documentfile:documentfile:1.0.0) with AarTransform
+[        ] > Transform core-runtime.aar (androidx.arch.core:core-runtime:2.0.0) with AarTransform
+[        ] > Transform lifecycle-livedata-core.aar (androidx.lifecycle:lifecycle-livedata-core:2.0.0) with AarTransform
+[        ] > Transform cardview.aar (androidx.cardview:cardview:1.0.0-rc01) with AarTransform
+[        ] > Transform lifecycle-livedata.aar (androidx.lifecycle:lifecycle-livedata:2.0.0) with AarTransform
+[        ] > Transform cursoradapter.aar (androidx.cursoradapter:cursoradapter:1.0.0) with AarTransform
+[        ] > Transform lifecycle-runtime.aar (androidx.lifecycle:lifecycle-runtime:2.0.0) with AarTransform
+[        ] > Transform versionedparcelable.aar (androidx.versionedparcelable:versionedparcelable:1.0.0) with AarTransform
+[        ] > Transform exifinterface.aar (androidx.exifinterface:exifinterface:1.0.0-rc01) with AarTransform
+[        ] > Transform core.aar (androidx.core:core:1.0.1) with AarTransform
+[        ] > Transform swiperefreshlayout.aar (androidx.swiperefreshlayout:swiperefreshlayout:1.0.0) with AarTransform
+[        ] > Transform asynclayoutinflater.aar (androidx.asynclayoutinflater:asynclayoutinflater:1.0.0) with AarTransform
+[        ] > Transform customview.aar (androidx.customview:customview:1.0.0) with AarTransform
+[        ] > Transform drawerlayout.aar (androidx.drawerlayout:drawerlayout:1.0.0) with AarTransform
+[        ] > Transform coordinatorlayout.aar (androidx.coordinatorlayout:coordinatorlayout:1.0.0) with AarTransform
+[        ] > Transform viewpager.aar (androidx.viewpager:viewpager:1.0.0) with AarTransform
+[        ] > Transform slidingpanelayout.aar (androidx.slidingpanelayout:slidingpanelayout:1.0.0) with AarTransform
+[        ] > Transform media.aar (androidx.media:media:1.0.0-rc01) with AarTransform
+[        ] > Transform transition.aar (androidx.transition:transition:1.0.0-rc01) with AarTransform
+[        ] > Transform loader.aar (androidx.loader:loader:1.0.0) with AarTransform
+[        ] > Transform vectordrawable.aar (androidx.vectordrawable:vectordrawable:1.0.1) with AarTransform
+[        ] > Transform facebook-core.aar (com.facebook.android:facebook-core:4.39.0) with AarTransform
+[        ] > Transform legacy-support-core-utils.aar (androidx.legacy:legacy-support-core-utils:1.0.0) with AarTransform
+[        ] > Transform legacy-support-core-ui.aar (androidx.legacy:legacy-support-core-ui:1.0.0) with AarTransform
+[        ] > Transform browser.aar (androidx.browser:browser:1.0.0-rc01) with AarTransform
+[        ] > Transform recyclerview.aar (androidx.recyclerview:recyclerview:1.0.0-rc01) with AarTransform
+[        ] > Transform vectordrawable-animated.aar (androidx.vectordrawable:vectordrawable-animated:1.0.0) with AarTransform
+[        ] > Transform fragment.aar (androidx.fragment:fragment:1.0.0) with AarTransform
+[        ] > Transform play-services-ads-identifier.aar (com.google.android.gms:play-services-ads-identifier:16.0.0) with AarTransform
+[        ] > Transform firebase-measurement-connector.aar (com.google.firebase:firebase-measurement-connector:17.0.1) with AarTransform
+[        ] > Transform legacy-support-v4.aar (androidx.legacy:legacy-support-v4:1.0.0-rc01) with AarTransform
+[        ] > Transform play-services-measurement-base.aar (com.google.android.gms:play-services-measurement-base:16.5.0) with AarTransform
+[        ] > Transform play-services-measurement-sdk-api.aar (com.google.android.gms:play-services-measurement-sdk-api:16.5.0) with AarTransform
+[        ] > Transform play-services-measurement-impl.aar (com.google.android.gms:play-services-measurement-impl:16.5.0) with AarTransform
+[        ] > Transform play-services-basement.aar (com.google.android.gms:play-services-basement:16.2.0) with AarTransform
+[        ] > Transform play-services-stats.aar (com.google.android.gms:play-services-stats:16.0.1) with AarTransform
+[        ] > Transform play-services-measurement.aar (com.google.android.gms:play-services-measurement:16.5.0) with AarTransform
+[        ] > Transform play-services-tasks.aar (com.google.android.gms:play-services-tasks:16.0.1) with AarTransform
+[        ] > Transform play-services-base.aar (com.google.android.gms:play-services-base:16.0.1) with AarTransform
+[        ] > Transform firebase-iid-interop.aar (com.google.firebase:firebase-iid-interop:16.0.1) with AarTransform
+[        ] > Transform play-services-flags.aar (com.google.android.gms:play-services-flags:16.0.1) with AarTransform
+[        ] > Transform material.aar (com.google.android.material:material:1.0.0-rc01) with AarTransform
+[        ] > Transform facebook-common.aar (com.facebook.android:facebook-common:4.39.0) with AarTransform
+[        ] > Transform facebook-login.aar (com.facebook.android:facebook-login:4.39.0) with AarTransform
+[        ] > Transform appcompat.aar (androidx.appcompat:appcompat:1.0.1) with AarTransform
+[        ] > Transform firebase-common.aar (com.google.firebase:firebase-common:17.0.0) with AarTransform
+[        ] > Transform firebase-iid.aar (com.google.firebase:firebase-iid:17.1.2) with AarTransform
+[        ] > Transform play-services-measurement-api.aar (com.google.android.gms:play-services-measurement-api:16.5.0) with AarTransform
+[        ] > Transform firebase-core.aar (com.google.firebase:firebase-core:16.0.9) with AarTransform
+[        ] > Transform firebase-analytics.aar (com.google.firebase:firebase-analytics:16.5.0) with AarTransform
+[        ] > Transform firebase-auth-interop.aar (com.google.firebase:firebase-auth-interop:17.0.0) with AarTransform
+[        ] > Transform firebase-storage.aar (com.google.firebase:firebase-storage:17.0.0) with AarTransform
+[        ] > Transform grpc-android.aar (io.grpc:grpc-android:1.16.1) with AarTransform
+[        ] > Transform firebase-firestore.aar (com.google.firebase:firebase-firestore:19.0.0) with AarTransform
+[        ] > Transform firebase-auth.aar (com.google.firebase:firebase-auth:17.0.0) with AarTransform
+[        ] > Transform ucrop.aar (com.github.yalantis:ucrop:2.2.3) with AarTransform
+[        ] > Transform exoplayer-core.aar (com.google.android.exoplayer:exoplayer-core:2.9.6) with AarTransform
+[        ] > Transform exoplayer-smoothstreaming.aar (com.google.android.exoplayer:exoplayer-smoothstreaming:2.9.6) with AarTransform
+[        ] > Transform exoplayer-dash.aar (com.google.android.exoplayer:exoplayer-dash:2.9.6) with AarTransform
+[        ] > Transform exoplayer-hls.aar (com.google.android.exoplayer:exoplayer-hls:2.9.6) with AarTransform
+[        ] > Transform multidex.aar (androidx.multidex:multidex:2.0.0) with AarTransform
+[        ] > Transform j2objc-annotations.jar (com.google.j2objc:j2objc-annotations:1.1) with IdentityTransform
+[        ] > Transform checker-compat-qual.jar (org.checkerframework:checker-compat-qual:2.5.2) with IdentityTransform
+[        ] > Transform animal-sniffer-annotations.jar (org.codehaus.mojo:animal-sniffer-annotations:1.17) with IdentityTransform
+[        ] > Transform jsr305.jar (com.google.code.findbugs:jsr305:3.0.2) with IdentityTransform
+[        ] > Transform error_prone_annotations.jar (com.google.errorprone:error_prone_annotations:2.2.0) with IdentityTransform
+[        ] > Transform opencensus-api.jar (io.opencensus:opencensus-api:0.12.3) with IdentityTransform
+[        ] > Transform opencensus-contrib-grpc-metrics.jar (io.opencensus:opencensus-contrib-grpc-metrics:0.12.3) with IdentityTransform
+[        ] > Transform grpc-context.jar (io.grpc:grpc-context:1.16.1) with IdentityTransform
+[   +1 ms] > Transform bolts-tasks.jar (com.parse.bolts:bolts-tasks:1.4.0) with IdentityTransform
+[        ] > Transform bolts-applinks.jar (com.parse.bolts:bolts-applinks:1.4.0) with IdentityTransform
+[        ] > Transform guava.jar (com.google.guava:guava:26.0-android) with IdentityTransform
+[        ] > Transform protobuf-lite.jar (com.google.protobuf:protobuf-lite:3.0.1) with IdentityTransform
+[   +1 ms] > Transform core.jar (com.google.zxing:core:3.3.0) with IdentityTransform
+[   +2 ms] > Transform bolts-android.jar (com.parse.bolts:bolts-android:1.4.0) with IdentityTransform
+[   +3 ms] > Transform auto-value-annotations.jar (com.google.auto.value:auto-value-annotations:1.6.3) with IdentityTransform
+[        ] > Transform okio.jar (com.squareup.okio:okio:1.14.0) with IdentityTransform
+[        ] > Transform okhttp.jar (com.squareup.okhttp:okhttp:2.7.5) with IdentityTransform
+[        ] > Transform listenablefuture.jar (com.google.guava:listenablefuture:9999.0-empty-to-avoid-conflict-with-guava) with IdentityTransform
+[        ] > Transform okhttp.jar (com.squareup.okhttp3:okhttp:3.11.0) with IdentityTransform
+[        ] > Transform annotation.jar (androidx.annotation:annotation:1.0.0) with IdentityTransform
+[        ] > Transform firebase-database-collection.aar (com.google.firebase:firebase-database-collection:16.0.1) with AarTransform
+[        ] > Transform play-services-measurement-sdk.aar (com.google.android.gms:play-services-measurement-sdk:16.5.0) with AarTransform
+[        ] > Transform protolite-well-known-types.aar (com.google.firebase:protolite-well-known-types:16.0.1) with AarTransform
+[        ] > Transform interpolator.aar (androidx.interpolator:interpolator:1.0.0) with AarTransform
+[        ] > Transform lifecycle-viewmodel.aar (androidx.lifecycle:lifecycle-viewmodel:2.0.0) with AarTransform
+[        ] > Transform localbroadcastmanager.aar (androidx.localbroadcastmanager:localbroadcastmanager:1.0.0) with AarTransform
+[        ] > Transform documentfile.aar (androidx.documentfile:documentfile:1.0.0) with AarTransform
+[        ] > Transform core-common.jar (androidx.arch.core:core-common:2.0.0) with IdentityTransform
+[        ] > Transform lifecycle-common.jar (androidx.lifecycle:lifecycle-common:2.0.0) with IdentityTransform
+[        ] > Transform core-runtime.aar (androidx.arch.core:core-runtime:2.0.0) with AarTransform
+[        ] > Transform lifecycle-livedata-core.aar (androidx.lifecycle:lifecycle-livedata-core:2.0.0) with AarTransform
+[        ] > Transform lifecycle-livedata.aar (androidx.lifecycle:lifecycle-livedata:2.0.0) with AarTransform
+[        ] > Transform cardview.aar (androidx.cardview:cardview:1.0.0-rc01) with AarTransform
+[        ] > Transform collection.jar (androidx.collection:collection:1.0.0) with IdentityTransform
+[        ] > Transform cursoradapter.aar (androidx.cursoradapter:cursoradapter:1.0.0) with AarTransform
+[        ] > Transform exifinterface.aar (androidx.exifinterface:exifinterface:1.0.0-rc01) with AarTransform
+[   +1 ms] > Transform core.aar (androidx.core:core:1.0.1) with AarTransform
+[        ] > Transform asynclayoutinflater.aar (androidx.asynclayoutinflater:asynclayoutinflater:1.0.0) with AarTransform
+[        ] > Transform print.aar (androidx.print:print:1.0.0) with AarTransform
+[        ] > Transform lifecycle-runtime.aar (androidx.lifecycle:lifecycle-runtime:2.0.0) with AarTransform
+[        ] > Transform slidingpanelayout.aar (androidx.slidingpanelayout:slidingpanelayout:1.0.0) with AarTransform
+[        ] > Transform customview.aar (androidx.customview:customview:1.0.0) with AarTransform
+[        ] > Transform versionedparcelable.aar (androidx.versionedparcelable:versionedparcelable:1.0.0) with AarTransform
+[        ] > Transform swiperefreshlayout.aar (androidx.swiperefreshlayout:swiperefreshlayout:1.0.0) with AarTransform
+[        ] > Transform coordinatorlayout.aar (androidx.coordinatorlayout:coordinatorlayout:1.0.0) with AarTransform
+[        ] > Transform drawerlayout.aar (androidx.drawerlayout:drawerlayout:1.0.0) with AarTransform
+[        ] > Transform viewpager.aar (androidx.viewpager:viewpager:1.0.0) with AarTransform
+[        ] > Transform media.aar (androidx.media:media:1.0.0-rc01) with AarTransform
+[        ] > Transform loader.aar (androidx.loader:loader:1.0.0) with AarTransform
+[        ] > Transform transition.aar (androidx.transition:transition:1.0.0-rc01) with AarTransform
+[        ] > Transform legacy-support-core-utils.aar (androidx.legacy:legacy-support-core-utils:1.0.0) with AarTransform
+[        ] > Transform vectordrawable.aar (androidx.vectordrawable:vectordrawable:1.0.1) with AarTransform
+[        ] > Transform facebook-core.aar (com.facebook.android:facebook-core:4.39.0) with AarTransform
+[        ] > Transform legacy-support-core-ui.aar (androidx.legacy:legacy-support-core-ui:1.0.0) with AarTransform
+[        ] > Transform browser.aar (androidx.browser:browser:1.0.0-rc01) with AarTransform
+[        ] > Transform recyclerview.aar (androidx.recyclerview:recyclerview:1.0.0-rc01) with AarTransform
+[        ] > Transform vectordrawable-animated.aar (androidx.vectordrawable:vectordrawable-animated:1.0.0) with AarTransform
+[        ] > Transform fragment.aar (androidx.fragment:fragment:1.0.0) with AarTransform
+[        ] > Transform legacy-support-v4.aar (androidx.legacy:legacy-support-v4:1.0.0-rc01) with AarTransform
+[        ] > Transform play-services-basement.aar (com.google.android.gms:play-services-basement:16.2.0) with AarTransform
+[        ] > Transform play-services-ads-identifier.aar (com.google.android.gms:play-services-ads-identifier:16.0.0) with AarTransform
+[        ] > Transform play-services-stats.aar (com.google.android.gms:play-services-stats:16.0.1) with AarTransform
+[        ] > Transform firebase-measurement-connector.aar (com.google.firebase:firebase-measurement-connector:17.0.1) with AarTransform
+[        ] > Transform play-services-measurement-base.aar (com.google.android.gms:play-services-measurement-base:16.5.0) with AarTransform
+[        ] > Transform play-services-measurement-sdk-api.aar (com.google.android.gms:play-services-measurement-sdk-api:16.5.0) with AarTransform
+[        ] > Transform play-services-measurement-impl.aar (com.google.android.gms:play-services-measurement-impl:16.5.0) with AarTransform
+[        ] > Transform play-services-measurement-sdk.aar (com.google.android.gms:play-services-measurement-sdk:16.5.0) with AarTransform
+[        ] > Transform play-services-measurement.aar (com.google.android.gms:play-services-measurement:16.5.0) with AarTransform
+[        ] > Transform play-services-base.aar (com.google.android.gms:play-services-base:16.0.1) with AarTransform
+[        ] > Transform play-services-tasks.aar (com.google.android.gms:play-services-tasks:16.0.1) with AarTransform
+[        ] > Transform firebase-iid-interop.aar (com.google.firebase:firebase-iid-interop:16.0.1) with AarTransform
+[        ] > Transform appcompat.aar (androidx.appcompat:appcompat:1.0.1) with AarTransform
+[        ] > Transform play-services-flags.aar (com.google.android.gms:play-services-flags:16.0.1) with AarTransform
+[        ] > Transform material.aar (com.google.android.material:material:1.0.0-rc01) with AarTransform
+[        ] > Transform facebook-common.aar (com.facebook.android:facebook-common:4.39.0) with AarTransform
+[        ] > Transform facebook-login.aar (com.facebook.android:facebook-login:4.39.0) with AarTransform
+[        ] > Transform firebase-common.aar (com.google.firebase:firebase-common:17.0.0) with AarTransform
+[        ] > Transform firebase-iid.aar (com.google.firebase:firebase-iid:17.1.2) with AarTransform
+[   +1 ms] > Transform firebase-analytics.aar (com.google.firebase:firebase-analytics:16.5.0) with AarTransform
+[        ] > Transform play-services-measurement-api.aar (com.google.android.gms:play-services-measurement-api:16.5.0) with AarTransform
+[        ] > Transform gson.jar (com.google.code.gson:gson:2.8.5) with IdentityTransform
+[        ] > Transform grpc-core.jar (io.grpc:grpc-core:1.16.1) with IdentityTransform
+[        ] > Transform grpc-stub.jar (io.grpc:grpc-stub:1.16.1) with IdentityTransform
+[        ] > Transform grpc-protobuf-lite.jar (io.grpc:grpc-protobuf-lite:1.16.1) with IdentityTransform
+[        ] > Transform grpc-okhttp.jar (io.grpc:grpc-okhttp:1.16.1) with IdentityTransform
+[        ] > Transform firebase-core.aar (com.google.firebase:firebase-core:16.0.9) with AarTransform
+[        ] > Transform firebase-storage.aar (com.google.firebase:firebase-storage:17.0.0) with AarTransform
+[        ] > Transform grpc-android.aar (io.grpc:grpc-android:1.16.1) with AarTransform
+[        ] > Transform firebase-auth-interop.aar (com.google.firebase:firebase-auth-interop:17.0.0) with AarTransform
+[        ] > Transform ucrop.aar (com.github.yalantis:ucrop:2.2.3) with AarTransform
+[        ] > Transform exoplayer-core.aar (com.google.android.exoplayer:exoplayer-core:2.9.6) with AarTransform
+[        ] > Transform exoplayer-smoothstreaming.aar (com.google.android.exoplayer:exoplayer-smoothstreaming:2.9.6) with AarTransform
+[   +1 ms] > Transform exoplayer-hls.aar (com.google.android.exoplayer:exoplayer-hls:2.9.6) with AarTransform
+[   +1 ms] > Transform multidex.aar (androidx.multidex:multidex:2.0.0) with AarTransform
+[        ] > Transform exoplayer-dash.aar (com.google.android.exoplayer:exoplayer-dash:2.9.6) with AarTransform
+[        ] > Transform firebase-auth.aar (com.google.firebase:firebase-auth:17.0.0) with AarTransform
+[        ] > Transform firebase-firestore.aar (com.google.firebase:firebase-firestore:19.0.0) with AarTransform
+[   +1 ms] > Task :app:mergeDebugJniLibFolders UP-TO-DATE
+[   +2 ms] > Task :cloud_firestore:compileDebugNdk NO-SOURCE
+[   +3 ms] > Task :cloud_firestore:mergeDebugJniLibFolders UP-TO-DATE
+[   +1 ms] > Task :cloud_firestore:transformNativeLibsWithMergeJniLibsForDebug UP-TO-DATE
+[        ] > Task :cloud_firestore:transformNativeLibsWithIntermediateJniLibsForDebug UP-TO-DATE
+[        ] > Task :firebase_auth:compileDebugNdk NO-SOURCE
+[        ] > Task :firebase_auth:mergeDebugJniLibFolders UP-TO-DATE
+[        ] > Task :firebase_auth:transformNativeLibsWithMergeJniLibsForDebug UP-TO-DATE
+[        ] > Task :firebase_auth:transformNativeLibsWithIntermediateJniLibsForDebug UP-TO-DATE
+[   +1 ms] > Task :firebase_core:compileDebugNdk NO-SOURCE
+[        ] > Task :firebase_core:mergeDebugJniLibFolders UP-TO-DATE
+[        ] > Task :firebase_core:transformNativeLibsWithMergeJniLibsForDebug UP-TO-DATE
+[        ] > Task :firebase_core:transformNativeLibsWithIntermediateJniLibsForDebug UP-TO-DATE
+[        ] > Task :firebase_storage:compileDebugNdk NO-SOURCE
+[        ] > Task :firebase_storage:mergeDebugJniLibFolders UP-TO-DATE
+[        ] > Task :firebase_storage:transformNativeLibsWithMergeJniLibsForDebug UP-TO-DATE
+[        ] > Task :firebase_storage:transformNativeLibsWithIntermediateJniLibsForDebug UP-TO-DATE
+[        ] > Task :flutter_facebook_login:compileDebugNdk NO-SOURCE
+[        ] > Task :flutter_facebook_login:mergeDebugJniLibFolders UP-TO-DATE
+[        ] > Task :flutter_facebook_login:transformNativeLibsWithMergeJniLibsForDebug UP-TO-DATE
+[        ] > Task :flutter_facebook_login:transformNativeLibsWithIntermediateJniLibsForDebug UP-TO-DATE
+[        ] > Task :image_cropper:compileDebugNdk NO-SOURCE
+[        ] > Task :image_cropper:mergeDebugJniLibFolders UP-TO-DATE
+[        ] > Task :image_cropper:transformNativeLibsWithMergeJniLibsForDebug UP-TO-DATE
+[        ] > Task :image_cropper:transformNativeLibsWithIntermediateJniLibsForDebug UP-TO-DATE
+[        ] > Task :image_picker:compileDebugNdk NO-SOURCE
+[        ] > Task :image_picker:mergeDebugJniLibFolders UP-TO-DATE
+[        ] > Task :image_picker:transformNativeLibsWithMergeJniLibsForDebug UP-TO-DATE
+[        ] > Task :image_picker:transformNativeLibsWithIntermediateJniLibsForDebug UP-TO-DATE
+[        ] > Task :video_player:compileDebugNdk NO-SOURCE
+[   +1 ms] > Task :video_player:mergeDebugJniLibFolders UP-TO-DATE
+[   +1 ms] > Task :video_player:transformNativeLibsWithMergeJniLibsForDebug UP-TO-DATE
+[   +6 ms] > Task :video_player:transformNativeLibsWithIntermediateJniLibsForDebug UP-TO-DATE
+[   +2 ms] > Task :app:transformNativeLibsWithMergeJniLibsForDebug UP-TO-DATE
+[  +57 ms] > Task :app:checkDebugLibraries UP-TO-DATE
+[   +1 ms] > Task :app:processDebugJavaRes NO-SOURCE
+[   +1 ms] > Task :app:transformResourcesWithMergeJavaResForDebug UP-TO-DATE
+[        ] > Task :app:validateSigningDebug UP-TO-DATE
+[+21201 ms] > Task :app:packageDebug
+[ +104 ms] > Task :app:assembleDebug
+[ +190 ms] > Task :cloud_firestore:extractDebugAnnotations UP-TO-DATE
+[        ] > Task :cloud_firestore:mergeDebugConsumerProguardFiles UP-TO-DATE
+[        ] > Task :cloud_firestore:transformResourcesWithMergeJavaResForDebug UP-TO-DATE
+[        ] > Task :cloud_firestore:transformClassesAndResourcesWithSyncLibJarsForDebug UP-TO-DATE
+[        ] > Task :cloud_firestore:transformNativeLibsWithSyncJniLibsForDebug UP-TO-DATE
+[        ] > Task :cloud_firestore:bundleDebugAar UP-TO-DATE
+[        ] > Task :cloud_firestore:compileDebugSources UP-TO-DATE
+[        ] > Task :cloud_firestore:assembleDebug UP-TO-DATE
+[  +95 ms] > Task :firebase_auth:extractDebugAnnotations UP-TO-DATE
+[   +1 ms] > Task :firebase_auth:mergeDebugConsumerProguardFiles UP-TO-DATE
+[  +11 ms] > Task :firebase_auth:transformResourcesWithMergeJavaResForDebug UP-TO-DATE
+[        ] > Task :firebase_auth:transformClassesAndResourcesWithSyncLibJarsForDebug UP-TO-DATE
+[        ] > Task :firebase_auth:transformNativeLibsWithSyncJniLibsForDebug UP-TO-DATE
+[        ] > Task :firebase_auth:bundleDebugAar UP-TO-DATE
+[        ] > Task :firebase_auth:compileDebugSources UP-TO-DATE
+[        ] > Task :firebase_auth:assembleDebug UP-TO-DATE
+[ +184 ms] > Task :firebase_core:extractDebugAnnotations UP-TO-DATE
+[        ] > Task :firebase_core:mergeDebugConsumerProguardFiles UP-TO-DATE
+[   +4 ms] > Task :firebase_core:transformResourcesWithMergeJavaResForDebug UP-TO-DATE
+[   +1 ms] > Task :firebase_core:transformClassesAndResourcesWithSyncLibJarsForDebug UP-TO-DATE
+[   +1 ms] > Task :firebase_core:transformNativeLibsWithSyncJniLibsForDebug UP-TO-DATE
+[        ] > Task :firebase_core:bundleDebugAar UP-TO-DATE
+[   +2 ms] > Task :firebase_core:compileDebugSources UP-TO-DATE
+[   +1 ms] > Task :firebase_core:assembleDebug UP-TO-DATE
+[   +1 ms] > Task :firebase_storage:extractDebugAnnotations UP-TO-DATE
+[        ] > Task :firebase_storage:mergeDebugConsumerProguardFiles UP-TO-DATE
+[   +1 ms] > Task :firebase_storage:transformResourcesWithMergeJavaResForDebug UP-TO-DATE
+[        ] > Task :firebase_storage:transformClassesAndResourcesWithSyncLibJarsForDebug UP-TO-DATE
+[  +82 ms] > Task :firebase_storage:transformNativeLibsWithSyncJniLibsForDebug UP-TO-DATE
+[        ] > Task :firebase_storage:bundleDebugAar UP-TO-DATE
+[        ] > Task :firebase_storage:compileDebugSources UP-TO-DATE
+[        ] > Task :firebase_storage:assembleDebug UP-TO-DATE
+[        ] > Task :flutter_facebook_login:extractDebugAnnotations UP-TO-DATE
+[   +1 ms] > Task :flutter_facebook_login:mergeDebugConsumerProguardFiles UP-TO-DATE
+[        ] > Task :flutter_facebook_login:transformResourcesWithMergeJavaResForDebug UP-TO-DATE
+[        ] > Task :flutter_facebook_login:transformClassesAndResourcesWithSyncLibJarsForDebug UP-TO-DATE
+[        ] > Task :flutter_facebook_login:transformNativeLibsWithSyncJniLibsForDebug UP-TO-DATE
+[        ] > Task :flutter_facebook_login:bundleDebugAar UP-TO-DATE
+[        ] > Task :flutter_facebook_login:compileDebugSources UP-TO-DATE
+[        ] > Task :flutter_facebook_login:assembleDebug UP-TO-DATE
+[  +93 ms] > Task :image_cropper:extractDebugAnnotations UP-TO-DATE
+[        ] > Task :image_cropper:mergeDebugConsumerProguardFiles UP-TO-DATE
+[        ] > Task :image_cropper:transformResourcesWithMergeJavaResForDebug UP-TO-DATE
+[        ] > Task :image_cropper:transformClassesAndResourcesWithSyncLibJarsForDebug UP-TO-DATE
+[        ] > Task :image_cropper:transformNativeLibsWithSyncJniLibsForDebug UP-TO-DATE
+[        ] > Task :image_cropper:bundleDebugAar UP-TO-DATE
+[        ] > Task :image_cropper:compileDebugSources UP-TO-DATE
+[        ] > Task :image_cropper:assembleDebug UP-TO-DATE
+[        ] > Task :image_picker:extractDebugAnnotations UP-TO-DATE
+[        ] > Task :image_picker:mergeDebugConsumerProguardFiles UP-TO-DATE
+[        ] > Task :image_picker:transformResourcesWithMergeJavaResForDebug UP-TO-DATE
+[        ] > Task :image_picker:transformClassesAndResourcesWithSyncLibJarsForDebug UP-TO-DATE
+[        ] > Task :image_picker:transformNativeLibsWithSyncJniLibsForDebug UP-TO-DATE
+[        ] > Task :image_picker:bundleDebugAar UP-TO-DATE
+[        ] > Task :image_picker:compileDebugSources UP-TO-DATE
+[        ] > Task :image_picker:assembleDebug UP-TO-DATE
+[        ] > Task :video_player:extractDebugAnnotations UP-TO-DATE
+[        ] > Task :video_player:mergeDebugConsumerProguardFiles UP-TO-DATE
+[        ] > Task :video_player:transformResourcesWithMergeJavaResForDebug UP-TO-DATE
+[  +33 ms] > Task :video_player:transformClassesAndResourcesWithSyncLibJarsForDebug UP-TO-DATE
+[   +1 ms] > Task :video_player:transformNativeLibsWithSyncJniLibsForDebug UP-TO-DATE
+[        ] > Task :video_player:bundleDebugAar UP-TO-DATE
+[        ] > Task :video_player:compileDebugSources UP-TO-DATE
+[        ] > Task :video_player:assembleDebug UP-TO-DATE
+[        ] 216 actionable tasks: 5 executed, 211 up-to-date
+[ +350 ms] Running Gradle task 'assembleDebug'... (completed in 33.8s)
+[ +124 ms] calculateSha: LocalDirectory: 'C:\Users\Minossi\Desenvolvimento\Mobile\biking\build\app\outputs\apk'/app.apk
+[ +250 ms] calculateSha: reading file took 248us
+[+1824 ms] calculateSha: computing sha took 1822us
+[   +4 ms] Built build\app\outputs\apk\debug\app-debug.apk.
+[   +6 ms] executing: C:\Users\Minossi\AppData\Local\Android\sdk\build-tools\29.0.2\aapt dump xmltree C:\Users\Minossi\Desenvolvimento\Mobile\biking\build\app\outputs\apk\app.apk AndroidManifest.xml
+[  +34 ms] Exit code 0 from: C:\Users\Minossi\AppData\Local\Android\sdk\build-tools\29.0.2\aapt dump xmltree C:\Users\Minossi\Desenvolvimento\Mobile\biking\build\app\outputs\apk\app.apk
+AndroidManifest.xml
+[   +9 ms] N: android=http://schemas.android.com/apk/res/android
+             E: manifest (line=2)
+               A: android:versionCode(0x0101021b)=(type 0x10)0x1
+               A: android:versionName(0x0101021c)="1.0.0" (Raw: "1.0.0")
+               A: android:compileSdkVersion(0x01010572)=(type 0x10)0x1c
+               A: android:compileSdkVersionCodename(0x01010573)="9" (Raw: "9")
+               A: package="com.rcdigital.biking" (Raw: "com.rcdigital.biking")
+               A: platformBuildVersionCode=(type 0x10)0x1
+               A: platformBuildVersionName="1.0.0" (Raw: "1.0.0")
+               E: uses-sdk (line=7)
+                 A: android:minSdkVersion(0x0101020c)=(type 0x10)0x10
+                 A: android:targetSdkVersion(0x01010270)=(type 0x10)0x1c
+               E: uses-permission (line=14)
+                 A: android:name(0x01010003)="android.permission.INTERNET" (Raw: "android.permission.INTERNET")
+               E: uses-permission (line=15)
+                 A: android:name(0x01010003)="android.permission.READ_EXTERNAL_STORAGE" (Raw: "android.permission.READ_EXTERNAL_STORAGE")
+               E: uses-permission (line=16)
+                 A: android:name(0x01010003)="android.permission.WRITE_EXTERNAL_STORAGE" (Raw: "android.permission.WRITE_EXTERNAL_STORAGE")
+               E: uses-permission (line=17)
+                 A: android:name(0x01010003)="android.permission.ACCESS_NETWORK_STATE" (Raw: "android.permission.ACCESS_NETWORK_STATE")
+               E: uses-permission (line=18)
+                 A: android:name(0x01010003)="android.permission.WAKE_LOCK" (Raw: "android.permission.WAKE_LOCK")
+               E: uses-permission (line=19)
+                 A: android:name(0x01010003)="com.google.android.c2dm.permission.RECEIVE" (Raw: "com.google.android.c2dm.permission.RECEIVE")
+               E: uses-permission (line=20)
+                 A: android:name(0x01010003)="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" (Raw: "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE")
+               E: application (line=22)
+                 A: android:label(0x01010001)="Biking" (Raw: "Biking")
+                 A: android:icon(0x01010002)=@0x7f0d0000
+                 A: android:name(0x01010003)="io.flutter.app.FlutterApplication" (Raw: "io.flutter.app.FlutterApplication")
+                 A: android:debuggable(0x0101000f)=(type 0x12)0xffffffff
+                 A: android:supportsRtl(0x010103af)=(type 0x12)0xffffffff
+                 A: android:appComponentFactory(0x0101057a)="androidx.core.app.CoreComponentFactory" (Raw: "androidx.core.app.CoreComponentFactory")
+                 E: activity (line=29)
+                   A: android:theme(0x01010000)=@0x7f0f00c5
+                   A: android:name(0x01010003)="com.rcdigital.biking.MainActivity" (Raw: "com.rcdigital.biking.MainActivity")
+                   A: android:launchMode(0x0101001d)=(type 0x10)0x1
+                   A: android:configChanges(0x0101001f)=(type 0x11)0x400037b4
+                   A: android:windowSoftInputMode(0x0101022b)=(type 0x11)0x10
+                   A: android:hardwareAccelerated(0x010102d3)=(type 0x12)0xffffffff
+                   E: meta-data (line=36)
+                     A: android:name(0x01010003)="io.flutter.app.android.SplashScreenUntilFirstFrame" (Raw: "io.flutter.app.android.SplashScreenUntilFirstFrame")
+                     A: android:value(0x01010024)=(type 0x12)0xffffffff
+                   E: meta-data (line=39)
+                     A: android:name(0x01010003)="com.facebook.sdk.ApplicationId" (Raw: "com.facebook.sdk.ApplicationId")
+                     A: android:value(0x01010024)=@0x7f0e0058
+                   E: intent-filter (line=43)
+                     E: action (line=44)
+                       A: android:name(0x01010003)="android.intent.action.MAIN" (Raw: "android.intent.action.MAIN")
+                     E: category (line=46)
+                       A: android:name(0x01010003)="android.intent.category.LAUNCHER" (Raw: "android.intent.category.LAUNCHER")
+                 E: activity (line=49)
+                   A: android:theme(0x01010000)=@0x7f0f014c
+                   A: android:name(0x01010003)="com.yalantis.ucrop.UCropActivity" (Raw: "com.yalantis.ucrop.UCropActivity")
+                   A: android:screenOrientation(0x0101001e)=(type 0x10)0x1
+                 E: activity (line=53)
+                   A: android:theme(0x01010000)=@0x7f0f01f5
+                   A: android:label(0x01010001)=@0x7f0e0027
+                   A: android:name(0x01010003)="com.facebook.FacebookActivity" (Raw: "com.facebook.FacebookActivity")
+                   A: android:configChanges(0x0101001f)=(type 0x11)0x5b0
+                 E: activity (line=58)
+                   A: android:name(0x01010003)="com.facebook.CustomTabActivity" (Raw: "com.facebook.CustomTabActivity")
+                   A: android:exported(0x01010010)=(type 0x12)0xffffffff
+                   E: intent-filter (line=61)
+                     E: action (line=62)
+                       A: android:name(0x01010003)="android.intent.action.VIEW" (Raw: "android.intent.action.VIEW")
+                     E: category (line=64)
+                       A: android:name(0x01010003)="android.intent.category.DEFAULT" (Raw: "android.intent.category.DEFAULT")
+                     E: category (line=65)
+                       A: android:name(0x01010003)="android.intent.category.BROWSABLE" (Raw: "android.intent.category.BROWSABLE")
+                     E: data (line=67)
+                       A: android:scheme(0x01010027)=@0x7f0e0059
+                 E: service (line=71)
+                   A: android:name(0x01010003)="com.google.firebase.components.ComponentDiscoveryService" (Raw: "com.google.firebase.components.ComponentDiscoveryService")
+                   A: android:exported(0x01010010)=(type 0x12)0x0
+                   E: meta-data (line=74)
+                     A: android:name(0x01010003)="com.google.firebase.components:io.flutter.plugins.firebaseauth.FlutterFirebaseAppRegistrar" (Raw:
+                     "com.google.firebase.components:io.flutter.plugins.firebaseauth.FlutterFirebaseAppRegistrar")
+                     A: android:value(0x01010024)="com.google.firebase.components.ComponentRegistrar" (Raw: "com.google.firebase.components.ComponentRegistrar")
+                   E: meta-data (line=77)
+                     A: android:name(0x01010003)="com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseAppRegistrar" (Raw:
+                     "com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseAppRegistrar")
+                     A: android:value(0x01010024)="com.google.firebase.components.ComponentRegistrar" (Raw: "com.google.firebase.components.ComponentRegistrar")
+                   E: meta-data (line=80)
+                     A: android:name(0x01010003)="com.google.firebase.components:io.flutter.plugins.firebase.storage.FlutterFirebaseAppRegistrar" (Raw:
+                     "com.google.firebase.components:io.flutter.plugins.firebase.storage.FlutterFirebaseAppRegistrar")
+                     A: android:value(0x01010024)="com.google.firebase.components.ComponentRegistrar" (Raw: "com.google.firebase.components.ComponentRegistrar")
+                   E: meta-data (line=83)
+                     A: android:name(0x01010003)="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar" (Raw:
+                     "com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar")
+                     A: android:value(0x01010024)="com.google.firebase.components.ComponentRegistrar" (Raw: "com.google.firebase.components.ComponentRegistrar")
+                   E: meta-data (line=86)
+                     A: android:name(0x01010003)="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar" (Raw:
+                     "com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar")
+                     A: android:value(0x01010024)="com.google.firebase.components.ComponentRegistrar" (Raw: "com.google.firebase.components.ComponentRegistrar")
+                   E: meta-data (line=89)
+                     A: android:name(0x01010003)="com.google.firebase.components:com.google.firebase.storage.StorageRegistrar" (Raw:
+                     "com.google.firebase.components:com.google.firebase.storage.StorageRegistrar")
+                     A: android:value(0x01010024)="com.google.firebase.components.ComponentRegistrar" (Raw: "com.google.firebase.components.ComponentRegistrar")
+                   E: meta-data (line=92)
+                     A: android:name(0x01010003)="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar" (Raw:
+                     "com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar")
+                     A: android:value(0x01010024)="com.google.firebase.components.ComponentRegistrar" (Raw: "com.google.firebase.components.ComponentRegistrar")
+                   E: meta-data (line=95)
+                     A: android:name(0x01010003)="com.google.firebase.components:com.google.firebase.iid.Registrar" (Raw: "com.google.firebase.components:com.google.firebase.iid.Registrar")
+                     A: android:value(0x01010024)="com.google.firebase.components.ComponentRegistrar" (Raw: "com.google.firebase.components.ComponentRegistrar")
+                 E: provider (line=100)
+                   A: android:name(0x01010003)="io.flutter.plugins.imagepicker.ImagePickerFileProvider" (Raw: "io.flutter.plugins.imagepicker.ImagePickerFileProvider")
+                   A: android:exported(0x01010010)=(type 0x12)0x0
+                   A: android:authorities(0x01010018)="com.rcdigital.biking.flutter.image_provider" (Raw: "com.rcdigital.biking.flutter.image_provider")
+                   A: android:grantUriPermissions(0x0101001b)=(type 0x12)0xffffffff
+                   E: meta-data (line=105)
+                     A: android:name(0x01010003)="android.support.FILE_PROVIDER_PATHS" (Raw: "android.support.FILE_PROVIDER_PATHS")
+                     A: android:resource(0x01010025)=@0x7f110000
+                 E: activity (line=110)
+                   A: android:theme(0x01010000)=@0x01030010
+                   A: android:name(0x01010003)="com.google.firebase.auth.internal.FederatedSignInActivity" (Raw: "com.google.firebase.auth.internal.FederatedSignInActivity")
+                   A: android:permission(0x01010006)="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN" (Raw: "com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN")
+                   A: android:exported(0x01010010)=(type 0x12)0xffffffff
+                   A: android:excludeFromRecents(0x01010017)=(type 0x12)0xffffffff
+                   A: android:launchMode(0x0101001d)=(type 0x10)0x2
+                 E: receiver (line=118)
+                   A: android:name(0x01010003)="com.google.firebase.iid.FirebaseInstanceIdReceiver" (Raw: "com.google.firebase.iid.FirebaseInstanceIdReceiver")
+                   A: android:permission(0x01010006)="com.google.android.c2dm.permission.SEND" (Raw: "com.google.android.c2dm.permission.SEND")
+                   A: android:exported(0x01010010)=(type 0x12)0xffffffff
+                   E: intent-filter (line=122)
+                     E: action (line=123)
+                       A: android:name(0x01010003)="com.google.android.c2dm.intent.RECEIVE" (Raw: "com.google.android.c2dm.intent.RECEIVE")
+                 E: service (line=130)
+                   A: android:name(0x01010003)="com.google.firebase.iid.FirebaseInstanceIdService" (Raw: "com.google.firebase.iid.FirebaseInstanceIdService")
+                   A: android:exported(0x01010010)=(type 0x12)0xffffffff
+                   E: intent-filter (line=133)
+                     A: android:priority(0x0101001c)=(type 0x10)0xfffffe0c
+                     E: action (line=134)
+                       A: android:name(0x01010003)="com.google.firebase.INSTANCE_ID_EVENT" (Raw: "com.google.firebase.INSTANCE_ID_EVENT")
+                 E: provider (line=138)
+                   A: android:name(0x01010003)="com.google.firebase.provider.FirebaseInitProvider" (Raw: "com.google.firebase.provider.FirebaseInitProvider")
+                   A: android:exported(0x01010010)=(type 0x12)0x0
+                   A: android:authorities(0x01010018)="com.rcdigital.biking.firebaseinitprovider" (Raw: "com.rcdigital.biking.firebaseinitprovider")
+                   A: android:initOrder(0x0101001a)=(type 0x10)0x64
+                 E: activity (line=144)
+                   A: android:name(0x01010003)="com.facebook.CustomTabMainActivity" (Raw: "com.facebook.CustomTabMainActivity")
+                 E: activity (line=145)
+                   A: android:theme(0x01010000)=@0x01030010
+                   A: android:name(0x01010003)="com.google.android.gms.common.api.GoogleApiActivity" (Raw: "com.google.android.gms.common.api.GoogleApiActivity")
+                   A: android:exported(0x01010010)=(type 0x12)0x0
+                 E: receiver (line=150)
+                   A: android:name(0x01010003)="com.google.android.gms.measurement.AppMeasurementReceiver" (Raw: "com.google.android.gms.measurement.AppMeasurementReceiver")
+                   A: android:enabled(0x0101000e)=(type 0x12)0xffffffff
+                   A: android:exported(0x01010010)=(type 0x12)0x0
+                 E: receiver (line=155)
+                   A: android:name(0x01010003)="com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver" (Raw: "com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver")
+                   A: android:permission(0x01010006)="android.permission.INSTALL_PACKAGES" (Raw: "android.permission.INSTALL_PACKAGES")
+                   A: android:enabled(0x0101000e)=(type 0x12)0xffffffff
+                   A: android:exported(0x01010010)=(type 0x12)0xffffffff
+                   E: intent-filter (line=160)
+                     E: action (line=161)
+                       A: android:name(0x01010003)="com.android.vending.INSTALL_REFERRER" (Raw: "com.android.vending.INSTALL_REFERRER")
+                 E: service (line=165)
+                   A: android:name(0x01010003)="com.google.android.gms.measurement.AppMeasurementService" (Raw: "com.google.android.gms.measurement.AppMeasurementService")
+                   A: android:enabled(0x0101000e)=(type 0x12)0xffffffff
+                   A: android:exported(0x01010010)=(type 0x12)0x0
+                 E: service (line=169)
+                   A: android:name(0x01010003)="com.google.android.gms.measurement.AppMeasurementJobService" (Raw: "com.google.android.gms.measurement.AppMeasurementJobService")
+                   A: android:permission(0x01010006)="android.permission.BIND_JOB_SERVICE" (Raw: "android.permission.BIND_JOB_SERVICE")
+                   A: android:enabled(0x0101000e)=(type 0x12)0xffffffff
+                   A: android:exported(0x01010010)=(type 0x12)0x0
+                 E: meta-data (line=175)
+                   A: android:name(0x01010003)="com.google.android.gms.version" (Raw: "com.google.android.gms.version")
+                   A: android:value(0x01010024)=@0x7f090008
+                 E: provider (line=187)
+                   A: android:name(0x01010003)="com.facebook.internal.FacebookInitProvider" (Raw: "com.facebook.internal.FacebookInitProvider")
+                   A: android:exported(0x01010010)=(type 0x12)0x0
+                   A: android:authorities(0x01010018)="com.rcdigital.biking.FacebookInitProvider" (Raw: "com.rcdigital.biking.FacebookInitProvider")
+                 E: receiver (line=192)
+                   A: android:name(0x01010003)="com.facebook.CurrentAccessTokenExpirationBroadcastReceiver" (Raw: "com.facebook.CurrentAccessTokenExpirationBroadcastReceiver")
+                   A: android:exported(0x01010010)=(type 0x12)0x0
+                   E: intent-filter (line=195)
+                     E: action (line=196)
+                       A: android:name(0x01010003)="com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED" (Raw: "com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED")
+[   +6 ms] Stopping app 'app.apk' on ASUS X017DA.
+[        ] executing: C:\Users\Minossi\AppData\Local\Android\sdk\platform-tools\adb.exe -s K2AXB602K639ZYX shell am force-stop com.rcdigital.biking
+[ +136 ms] executing: C:\Users\Minossi\AppData\Local\Android\sdk\platform-tools\adb.exe -s K2AXB602K639ZYX shell pm list packages com.rcdigital.biking
+[ +117 ms] package:com.rcdigital.biking
+[   +4 ms] executing: C:\Users\Minossi\AppData\Local\Android\sdk\platform-tools\adb.exe -s K2AXB602K639ZYX shell cat /data/local/tmp/sky.com.rcdigital.biking.sha1
+[  +52 ms] f43dcfab7c6ea85dd2ede1cc322d2046517ccead
+[   +1 ms] Installing APK.
+[   +5 ms] executing: C:\Users\Minossi\AppData\Local\Android\sdk\platform-tools\adb.exe version
+[  +17 ms] Android Debug Bridge version 1.0.41
+           Version 29.0.2-5738569
+           Installed as C:\Users\Minossi\AppData\Local\Android\sdk\platform-tools\adb.exe
+[   +1 ms] executing: C:\Users\Minossi\AppData\Local\Android\sdk\platform-tools\adb.exe start-server
+[  +16 ms] Installing build\app\outputs\apk\app.apk...
+[        ] executing: C:\Users\Minossi\AppData\Local\Android\sdk\platform-tools\adb.exe -s K2AXB602K639ZYX install -t -r C:\Users\Minossi\Desenvolvimento\Mobile\biking\build\app\outputs\apk\app.apk
+[+12117 ms] Performing Streamed Install
+            Success
+[        ] Installing build\app\outputs\apk\app.apk... (completed in 12.1s)
+[   +2 ms] executing: C:\Users\Minossi\AppData\Local\Android\sdk\platform-tools\adb.exe -s K2AXB602K639ZYX shell echo -n b7b86126c097ec8244661f2d8d7ce4e8671d9201 >
+/data/local/tmp/sky.com.rcdigital.biking.sha1
+[  +60 ms] ASUS X017DA startApp
+[   +5 ms] executing: C:\Users\Minossi\AppData\Local\Android\sdk\platform-tools\adb.exe -s K2AXB602K639ZYX shell am start -a android.intent.action.RUN -f 0x20000000 --ez enable-background-compilation true
+--ez enable-dart-profiling true --ez enable-checked-mode true --ez verify-entry-points true com.rcdigital.biking/com.rcdigital.biking.MainActivity
+[ +242 ms] Starting: Intent { act=android.intent.action.RUN flg=0x20000000 cmp=com.rcdigital.biking/.MainActivity (has extras) }
+[        ] Waiting for observatory port to be available...
+[+75892 ms] Observatory URL on device: http://127.0.0.1:42919/2NqkO5FRTDk=/
+[   +4 ms] executing: C:\Users\Minossi\AppData\Local\Android\sdk\platform-tools\adb.exe -s K2AXB602K639ZYX forward tcp:0 tcp:42919
+[  +84 ms] 58083
+[        ] Forwarded host port 58083 to device port 42919 for Observatory
+[   +7 ms] Connecting to service protocol: http://127.0.0.1:58083/2NqkO5FRTDk=/
+[+1534 ms] Successfully connected to service protocol: http://127.0.0.1:58083/2NqkO5FRTDk=/
+[  +89 ms] Sending to VM service: getVM({})
+[  +19 ms] Result: {type: VM, name: vm, architectureBits: 64, targetCPU: arm64, hostCPU: Qualcomm Technologies, Inc SDM630, version: 2.4.0 (Wed Jun 19 11:53:45 2019 +0200) on "android_arm64",
+_profilerMode: Dart, _nativeZoneMemoryUsage: 0, pid: 28046, startTime: 156...
+[  +16 ms] Sending to VM service: getIsolate({isolateId: isolates/973542912})
+[   +5 ms] Sending to VM service: _flutter.listViews({})
+[  +17 ms] Result: {type: FlutterViewList, views: [{type: FlutterView, id: _flutterView/0x7b44c5b820, isolate: {type: @Isolate, fixedId: true, id: isolates/973542912, name: main.dart$main-973542912,
+number: 973542912}}]}
+[   +6 ms] DevFS: Creating new filesystem on the device (null)
+[        ] Sending to VM service: _createDevFS({fsName: biking})
+[ +256 ms] Result: {type: Isolate, id: isolates/973542912, name: main, number: 973542912, _originNumber: 973542912, startTime: 1566236148269, _heaps: {new: {type: HeapSpace, name: new, vmName: Scavenger,
+collections: 1, avgCollectionPeriodMillis: 2114.429, used: 104...
+[  +34 ms] Result: {type: FileSystem, name: biking, uri: file:///data/user/0/com.rcdigital.biking/code_cache/bikingLMIVOK/biking/}
+[   +1 ms] DevFS: Created new filesystem on the device (file:///data/user/0/com.rcdigital.biking/code_cache/bikingLMIVOK/biking/)
+[   +4 ms] Updating assets
+[+2020 ms] Scanned through 0 files in 0ms
+[   +2 ms] Syncing files to device ASUS X017DA...
+[   +2 ms] Scanning asset files
+[   +5 ms] <- reset
+[        ] Compiling dart to kernel with 0 updated files
+[  +11 ms] C:\Users\Minossi\Desenvolvimento\src\flutter\bin\cache\dart-sdk\bin\dart C:\Users\Minossi\Desenvolvimento\src\flutter\bin\cache\artifacts\engine\windows-x64\frontend_server.dart.snapshot
+--sdk-root C:\Users\Minossi\Desenvolvimento\src\flutter\bin\cache\artifacts\engine\common\flutter_patched_sdk/ --incremental --strong --target=flutter --output-dill build\app.dill --packages
+C:\Users\Minossi\Desenvolvimento\Mobile\biking\.packages --filesystem-scheme org-dartlang-root
+[   +6 ms] <- compile package:Biking/main.dart
+[ +242 ms] -> result 0b161ef4-8ccb-4433-b9aa-7b5cccaf0d93
+[+2539 ms] -> 0b161ef4-8ccb-4433-b9aa-7b5cccaf0d93
+[   +1 ms] -> +file:///C:/Users/Minossi/Desenvolvimento/Mobile/biking/lib/main.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/Mobile/biking/lib/models/user_mdel.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/Mobile/biking/lib/pages/create_account.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/Mobile/biking/lib/pages/home_screen.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/Mobile/biking/lib/pages/login_screen.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/Mobile/biking/lib/pages/recovery_password.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/Mobile/biking/lib/widgets/image_source_sheet.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/Mobile/biking/lib/widgets/input_field.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/charcode-1.1.2/lib/ascii.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore-0.11.0+2/lib/cloud_firestore.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore-0.11.0+2/lib/src/transaction.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore-0.11.0+2/lib/src/blob.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore-0.11.0+2/lib/src/collection_reference.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore-0.11.0+2/lib/src/document_change.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore-0.11.0+2/lib/src/document_reference.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore-0.11.0+2/lib/src/document_snapshot.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore-0.11.0+2/lib/src/field_value.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore-0.11.0+2/lib/src/firestore.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore-0.11.0+2/lib/src/firestore_message_codec.dart
+[   +1 ms] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore-0.11.0+2/lib/src/geo_point.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore-0.11.0+2/lib/src/query.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore-0.11.0+2/lib/src/query_snapshot.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore-0.11.0+2/lib/src/snapshot_metadata.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore-0.11.0+2/lib/src/timestamp.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore-0.11.0+2/lib/src/write_batch.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore-0.11.0+2/lib/src/utils/push_id_generator.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/collection-1.14.11/lib/collection.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/collection-1.14.11/lib/src/algorithms.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/collection-1.14.11/lib/src/canonicalized_map.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/collection-1.14.11/lib/src/combined_wrappers/combined_iterable.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/collection-1.14.11/lib/src/combined_wrappers/combined_list.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/collection-1.14.11/lib/src/combined_wrappers/combined_map.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/collection-1.14.11/lib/src/comparators.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/collection-1.14.11/lib/src/empty_unmodifiable_set.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/collection-1.14.11/lib/src/wrappers.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/collection-1.14.11/lib/src/equality.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/collection-1.14.11/lib/src/equality_map.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/collection-1.14.11/lib/src/equality_set.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/collection-1.14.11/lib/src/functions.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/collection-1.14.11/lib/src/iterable_zip.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/collection-1.14.11/lib/src/priority_queue.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/collection-1.14.11/lib/src/queue_list.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/collection-1.14.11/lib/src/union_set.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/collection-1.14.11/lib/src/unmodifiable_wrappers.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/collection-1.14.11/lib/src/union_set_controller.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/collection-1.14.11/lib/src/utils.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/convert-2.1.1/lib/convert.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/convert-2.1.1/lib/src/accumulator_sink.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/convert-2.1.1/lib/src/byte_accumulator_sink.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/convert-2.1.1/lib/src/hex.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/convert-2.1.1/lib/src/hex/decoder.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/convert-2.1.1/lib/src/hex/encoder.dart
+[   +1 ms] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/convert-2.1.1/lib/src/identity_codec.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/convert-2.1.1/lib/src/percent.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/convert-2.1.1/lib/src/percent/decoder.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/convert-2.1.1/lib/src/percent/encoder.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/convert-2.1.1/lib/src/string_accumulator_sink.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/convert-2.1.1/lib/src/utils.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/crypto-2.1.1+1/lib/crypto.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/crypto-2.1.1+1/lib/src/digest.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/crypto-2.1.1+1/lib/src/digest_sink.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/crypto-2.1.1+1/lib/src/hash.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/crypto-2.1.1+1/lib/src/hash_sink.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/crypto-2.1.1+1/lib/src/hmac.dart
+[   +3 ms] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/crypto-2.1.1+1/lib/src/md5.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/crypto-2.1.1+1/lib/src/sha1.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/crypto-2.1.1+1/lib/src/sha256.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/crypto-2.1.1+1/lib/src/sha512.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/crypto-2.1.1+1/lib/src/sha512_fastsinks.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/crypto-2.1.1+1/lib/src/utils.dart
+[   +1 ms] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth-0.11.1+12/lib/firebase_auth.dart
+[   +1 ms] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth-0.11.1+12/lib/src/firebase_auth.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth-0.11.1+12/lib/src/auth_provider/email_auth_provider.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth-0.11.1+12/lib/src/auth_provider/facebook_auth_provider.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth-0.11.1+12/lib/src/auth_provider/github_auth_provider.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth-0.11.1+12/lib/src/auth_provider/google_auth_provider.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth-0.11.1+12/lib/src/auth_provider/phone_auth_provider.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth-0.11.1+12/lib/src/auth_provider/twitter_auth_provider.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth-0.11.1+12/lib/src/auth_credential.dart
+[   +1 ms] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth-0.11.1+12/lib/src/auth_exception.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth-0.11.1+12/lib/src/firebase_user.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth-0.11.1+12/lib/src/user_info.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth-0.11.1+12/lib/src/user_metadata.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth-0.11.1+12/lib/src/user_update_info.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-0.4.0+8/lib/firebase_core.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-0.4.0+8/lib/src/firebase_app.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-0.4.0+8/lib/src/firebase_options.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_storage-3.0.5/lib/firebase_storage.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_storage-3.0.5/lib/src/error.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_storage-3.0.5/lib/src/event.dart
+[   +1 ms] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_storage-3.0.5/lib/src/firebase_storage.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_storage-3.0.5/lib/src/storage_metadata.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_storage-3.0.5/lib/src/storage_reference.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_storage-3.0.5/lib/src/upload_task.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/image_cropper-1.0.2/lib/image_cropper.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker-0.6.1+2/lib/image_picker.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/meta-1.1.6/lib/meta.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/scoped_model-1.0.1/lib/scoped_model.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/typed_data-1.1.6/lib/typed_buffers.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/typed_data-1.1.6/lib/typed_data.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/uuid-2.0.2/lib/uuid.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/uuid-2.0.2/lib/uuid_util.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/vector_math-2.0.8/lib/hash.dart
+[   +1 ms] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/vector_math-2.0.8/lib/vector_math_64.dart
+[   +2 ms] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/vector_math-2.0.8/lib/src/vector_math_64/aabb2.dart
+[   +1 ms] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/vector_math-2.0.8/lib/src/vector_math_64/aabb3.dart
+[   +1 ms] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/vector_math-2.0.8/lib/src/vector_math_64/colors.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/vector_math-2.0.8/lib/src/vector_math_64/frustum.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/vector_math-2.0.8/lib/src/vector_math_64/intersection_result.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/vector_math-2.0.8/lib/src/vector_math_64/matrix2.dart
+[   +1 ms] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/vector_math-2.0.8/lib/src/vector_math_64/matrix3.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/vector_math-2.0.8/lib/src/vector_math_64/matrix4.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/vector_math-2.0.8/lib/src/vector_math_64/obb3.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/vector_math-2.0.8/lib/src/vector_math_64/plane.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/vector_math-2.0.8/lib/src/vector_math_64/quad.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/vector_math-2.0.8/lib/src/vector_math_64/quaternion.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/vector_math-2.0.8/lib/src/vector_math_64/ray.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/vector_math-2.0.8/lib/src/vector_math_64/sphere.dart
+[   +2 ms] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/vector_math-2.0.8/lib/src/vector_math_64/third_party/noise.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/vector_math-2.0.8/lib/src/vector_math_64/triangle.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/vector_math-2.0.8/lib/src/vector_math_64/vector.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/vector_math-2.0.8/lib/src/vector_math_64/vector2.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/vector_math-2.0.8/lib/src/vector_math_64/vector3.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/vector_math-2.0.8/lib/src/vector_math_64/vector4.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/vector_math-2.0.8/lib/src/vector_math_64/constants.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/vector_math-2.0.8/lib/src/vector_math_64/error_helpers.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/vector_math-2.0.8/lib/src/vector_math_64/opengl.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/vector_math-2.0.8/lib/src/vector_math_64/utilities.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/.pub-cache/hosted/pub.dartlang.org/video_player-0.10.1+6/lib/video_player.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/widgets/binding.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/animation.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/cupertino.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/foundation.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/gestures.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/material.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/painting.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/physics.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/rendering.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/scheduler.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/semantics.dart
+[   +1 ms] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/services.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/animation/animation.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/animation/animation_controller.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/animation/listener_helpers.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/animation/animations.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/animation/curves.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/animation/tween.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/animation/tween_sequence.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/cupertino/action_sheet.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/rendering/object.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/rendering/box.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/cupertino/activity_indicator.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/widgets/ticker_provider.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/cupertino/app.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/cupertino/bottom_tab_bar.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/cupertino/button.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/cupertino/colors.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/cupertino/date_picker.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/cupertino/dialog.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/cupertino/icons.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/cupertino/localizations.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/cupertino/nav_bar.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/foundation/diagnostics.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/cupertino/page_scaffold.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/cupertino/picker.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/cupertino/refresh.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/cupertino/route.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/cupertino/scrollbar.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/cupertino/segmented_control.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/cupertino/slider.dart
+[   +1 ms] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/cupertino/switch.dart
+[   +1 ms] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/cupertino/tab_scaffold.dart
+[   +1 ms] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/cupertino/tab_view.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/cupertino/text_field.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/widgets/automatic_keep_alive.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/cupertino/text_selection.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/cupertino/text_theme.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/cupertino/theme.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/cupertino/thumb_painter.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/foundation/_bitfield_io.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/foundation/_isolates_io.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/foundation/_platform_io.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/foundation/annotations.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/foundation/assertions.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/foundation/basic_types.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/foundation/binding.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/foundation/bitfield.dart
+[   +1 ms] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/foundation/change_notifier.dart
+[   +1 ms] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/foundation/collections.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/foundation/consolidate_response.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/foundation/constants.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/foundation/debug.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/foundation/isolates.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/foundation/key.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/foundation/licenses.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/foundation/node.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/foundation/observer_list.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/foundation/platform.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/foundation/print.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/foundation/profile.dart
+[   +1 ms] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/foundation/serialization.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/foundation/synchronous_future.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/foundation/unicode.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/gestures/arena.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/gestures/binding.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/gestures/constants.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/gestures/converter.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/gestures/debug.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/gestures/drag.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/gestures/drag_details.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/gestures/eager.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/gestures/events.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/gestures/force_press.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/gestures/hit_test.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/gestures/long_press.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/gestures/lsq_solver.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/gestures/monodrag.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/gestures/mouse_tracking.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/gestures/multidrag.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/gestures/multitap.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/gestures/pointer_router.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/gestures/pointer_signal_resolver.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/gestures/recognizer.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/gestures/scale.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/gestures/tap.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/gestures/team.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/gestures/velocity_tracker.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/about.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/animated_icons.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/animated_icons/animated_icons.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/animated_icons/animated_icons_data.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/animated_icons/data/add_event.g.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/animated_icons/data/arrow_menu.g.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/animated_icons/data/close_menu.g.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/animated_icons/data/ellipsis_search.g.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/animated_icons/data/event_add.g.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/animated_icons/data/home_menu.g.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/animated_icons/data/list_view.g.dart
+[   +1 ms] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/animated_icons/data/menu_arrow.g.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/animated_icons/data/menu_close.g.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/animated_icons/data/menu_home.g.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/animated_icons/data/pause_play.g.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/animated_icons/data/play_pause.g.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/animated_icons/data/search_ellipsis.g.dart
+[   +1 ms] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/animated_icons/data/view_list.g.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/app.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/app_bar.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/app_bar_theme.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/arc.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/back_button.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/bottom_app_bar.dart
+[   +1 ms] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/bottom_app_bar_theme.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/bottom_navigation_bar.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/bottom_sheet.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/bottom_sheet_theme.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/button.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/button_bar.dart
+[   +2 ms] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/button_theme.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/card.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/card_theme.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/checkbox.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/checkbox_list_tile.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/chip.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/chip_theme.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/circle_avatar.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/color_scheme.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/colors.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/constants.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/data_table.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/data_table_source.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/date_picker.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/debug.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/dialog.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/dialog_theme.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/divider.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/drawer.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/drawer_header.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/dropdown.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/expand_icon.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/expansion_panel.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/expansion_tile.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/feedback.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/flat_button.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/flexible_space_bar.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/floating_action_button.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/floating_action_button_location.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/floating_action_button_theme.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/flutter_logo.dart
+[   +2 ms] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/grid_tile.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/grid_tile_bar.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/icon_button.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/icons.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/ink_decoration.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/ink_highlight.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/ink_ripple.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/ink_splash.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/ink_well.dart
+[   +1 ms] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/input_border.dart
+[   +2 ms] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/input_decorator.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/list_tile.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/material.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/material_button.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/material_localizations.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/material_state.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/mergeable_material.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/outline_button.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/page.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/page_transitions_theme.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/paginated_data_table.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/popup_menu.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/progress_indicator.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/radio.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/radio_list_tile.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/raised_button.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/range_slider.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/refresh_indicator.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/reorderable_list.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/scaffold.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/scrollbar.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/search.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/shadows.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/slider.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/slider_theme.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/snack_bar.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/snack_bar_theme.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/stepper.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/switch.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/switch_list_tile.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/tab_bar_theme.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/tab_controller.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/tab_indicator.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/tabs.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/text_field.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/text_form_field.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/text_selection.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/text_theme.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/theme.dart
+[   +1 ms] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/theme_data.dart
+[   +5 ms] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/time.dart
+[   +1 ms] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/time_picker.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/toggleable.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/tooltip.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/typography.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/material/user_accounts_drawer_header.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/painting/_network_image_io.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/painting/alignment.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/painting/basic_types.dart
+[   +2 ms] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/painting/beveled_rectangle_border.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/painting/binding.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/painting/border_radius.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/painting/borders.dart
+[   +1 ms] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/painting/box_border.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/painting/box_decoration.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/painting/box_fit.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/painting/box_shadow.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/painting/circle_border.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/painting/clip.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/painting/colors.dart
+[   +1 ms] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/painting/continuous_rectangle_border.dart
+[   +1 ms] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/painting/debug.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/painting/decoration.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/painting/decoration_image.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/painting/edge_insets.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/painting/flutter_logo.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/painting/fractional_offset.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/painting/geometry.dart
+[   +1 ms] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/painting/gradient.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/painting/image_cache.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/painting/image_decoder.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/painting/image_provider.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/painting/image_resolution.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/painting/image_stream.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/painting/inline_span.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/painting/matrix_utils.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/painting/notched_shapes.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/painting/paint_utilities.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/painting/placeholder_span.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/painting/rounded_rectangle_border.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/painting/shader_warm_up.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/painting/shape_decoration.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/painting/stadium_border.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/painting/strut_style.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/painting/text_painter.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/painting/text_span.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/painting/text_style.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/physics/clamped_simulation.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/physics/friction_simulation.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/physics/gravity_simulation.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/physics/simulation.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/physics/spring_simulation.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/physics/tolerance.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/physics/utils.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/rendering/animated_size.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/rendering/binding.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/services/binding.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/scheduler/binding.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/semantics/binding.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/rendering/custom_layout.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/rendering/custom_paint.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/rendering/debug.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/rendering/debug_overflow_indicator.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/rendering/editable.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/rendering/error.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/rendering/flex.dart
+[   +1 ms] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/rendering/flow.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/rendering/image.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/rendering/layer.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/rendering/list_body.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/rendering/list_wheel_viewport.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/rendering/paragraph.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/rendering/performance_overlay.dart
+[   +1 ms] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/rendering/platform_view.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/rendering/proxy_box.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/rendering/rotated_box.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/rendering/shifted_box.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/rendering/sliver.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/rendering/sliver_fill.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/rendering/sliver_fixed_extent_list.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/rendering/sliver_grid.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/rendering/sliver_list.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/rendering/sliver_multi_box_adaptor.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/rendering/sliver_padding.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/rendering/sliver_persistent_header.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/rendering/stack.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/rendering/table.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/rendering/table_border.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/rendering/texture.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/rendering/tweens.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/rendering/view.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/rendering/viewport.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/rendering/viewport_offset.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/rendering/wrap.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/scheduler/debug.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/scheduler/priority.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/scheduler/ticker.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/semantics/debug.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/semantics/semantics.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/semantics/semantics_event.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/semantics/semantics_service.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/services/asset_bundle.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/services/binary_messenger.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/services/clipboard.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/services/font_loader.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/services/haptic_feedback.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/services/keyboard_key.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/services/keyboard_maps.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/services/message_codec.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/services/message_codecs.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/services/platform_channel.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/services/platform_messages.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/services/platform_views.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/services/raw_keyboard.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/services/raw_keyboard_android.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/services/raw_keyboard_fuchsia.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/services/raw_keyboard_linux.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/services/raw_keyboard_macos.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/services/system_channels.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/services/system_chrome.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/services/system_navigator.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/services/system_sound.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/services/text_editing.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/services/text_formatter.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/services/text_input.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/widgets/actions.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/widgets/animated_cross_fade.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/widgets/animated_list.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/widgets/animated_size.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/widgets/animated_switcher.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/widgets/annotated_region.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/widgets/app.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/widgets/async.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/widgets/banner.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/widgets/basic.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/widgets/bottom_navigation_bar_item.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/widgets/container.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/widgets/debug.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/widgets/dismissible.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/widgets/drag_target.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/widgets/draggable_scrollable_sheet.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/widgets/scroll_notification.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/widgets/editable_text.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/widgets/fade_in_image.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/widgets/focus_manager.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/widgets/focus_scope.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/widgets/focus_traversal.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/widgets/form.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/widgets/framework.dart
+[   +1 ms] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/widgets/gesture_detector.dart
+[   +1 ms] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/widgets/grid_paper.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/widgets/heroes.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/widgets/icon.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/widgets/icon_data.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/widgets/icon_theme.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/widgets/icon_theme_data.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/widgets/image.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/widgets/image_icon.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/widgets/implicit_animations.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/widgets/inherited_model.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/widgets/inherited_notifier.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/widgets/layout_builder.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/widgets/list_wheel_scroll_view.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/widgets/localizations.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/widgets/media_query.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/widgets/modal_barrier.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/widgets/navigation_toolbar.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/widgets/navigator.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/widgets/nested_scroll_view.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/widgets/notification_listener.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/widgets/orientation_builder.dart
+[   +1 ms] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/widgets/overlay.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/widgets/overscroll_indicator.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/widgets/page_storage.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/widgets/page_view.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/widgets/pages.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/widgets/performance_overlay.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/widgets/placeholder.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/widgets/platform_view.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/widgets/preferred_size.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/widgets/primary_scroll_controller.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/widgets/raw_keyboard_listener.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/widgets/routes.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/widgets/safe_area.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/widgets/scroll_activity.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/widgets/scroll_configuration.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/widgets/scroll_context.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/widgets/scroll_controller.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/widgets/scroll_metrics.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/widgets/scroll_physics.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/widgets/scroll_position.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/widgets/scroll_position_with_single_context.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/widgets/scroll_simulation.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/widgets/scroll_view.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/widgets/scrollable.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/widgets/scrollbar.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/widgets/semantics_debugger.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/widgets/shortcuts.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/widgets/single_child_scroll_view.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/widgets/size_changed_layout_notifier.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/widgets/sliver.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/widgets/sliver_persistent_header.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/widgets/sliver_prototype_extent_list.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/widgets/spacer.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/widgets/status_transitions.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/widgets/table.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/widgets/text.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/widgets/text_selection.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/widgets/texture.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/widgets/title.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/widgets/transitions.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/widgets/unique_widget.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/widgets/value_listenable_builder.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/widgets/viewport.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/widgets/visibility.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/widgets/widget_inspector.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/widgets/widget_span.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/src/widgets/will_pop_scope.dart
+[        ] -> +file:///C:/Users/Minossi/Desenvolvimento/src/flutter/packages/flutter/lib/widgets.dart
+[        ] -> 0b161ef4-8ccb-4433-b9aa-7b5cccaf0d93 build\app.dill 0
+[   +1 ms] Updating files
+[+5621 ms] DevFS: Sync finished
+[   +3 ms] Syncing files to device ASUS X017DA... (completed in 8,718ms, longer than expected)
+[   +1 ms] Synced 57.8MB.
+[   +2 ms] Sending to VM service: _flutter.listViews({})
+[  +12 ms] Result: {type: FlutterViewList, views: [{type: FlutterView, id: _flutterView/0x7b44c5b820, isolate: {type: @Isolate, fixedId: true, id: isolates/973542912, name: main.dart$main-973542912,
+number: 973542912}}]}
+[   +1 ms] <- accept
+[        ] Connected to _flutterView/0x7b44c5b820.
+[   +2 ms] 🔥  To hot reload changes while running, press "r". To hot restart (and rebuild state), press "R".
+[   +1 ms] An Observatory debugger and profiler on ASUS X017DA is available at: http://127.0.0.1:58083/2NqkO5FRTDk=/
+[        ] For a more detailed help message, press "h". To detach, press "d"; to quit, press "q".
+[+16737 ms] E/FirebaseInstanceId(28046): Token retrieval failed: SERVICE_NOT_AVAILABLE
+[+60084 ms] E/FirebaseInstanceId(28046): Token retrieval failed: SERVICE_NOT_AVAILABLE
+[+23611 ms] Service protocol connection closed.
+[   +1 ms] Lost connection to device.
+[   +2 ms] DevFS: Deleting filesystem on the device (file:///data/user/0/com.rcdigital.biking/code_cache/bikingLMIVOK/biking/)
+[        ] Sending to VM service: _deleteDevFS({fsName: biking})
+[ +255 ms] Ignored error while cleaning up DevFS: TimeoutException after 0:00:00.250000: Future not completed
+[   +5 ms] "flutter run" took 245,582ms.
+[   +1 ms] "flutter run" took 245,582ms.
